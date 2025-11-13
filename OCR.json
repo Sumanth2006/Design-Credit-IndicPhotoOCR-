@@ -1,0 +1,6510 @@
+{
+
+    "dc_1": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [452, 57],
+                    [572, 57],
+                    [572, 97],
+                    [452, 97],
+                    [452, 57]
+                ],
+                "text": "ghmc",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [30, 61],
+                    [188, 61],
+                    [188, 133],
+                    [30, 133],
+                    [30, 61]
+                ],
+                "text": "ncc",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [333, 670],
+                    [570, 670],
+                    [570, 771],
+                    [333, 771],
+                    [333, 670]
+                ],
+                "text": "left",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [35, 683],
+                    [272, 683],
+                    [272, 778],
+                    [35, 778],
+                    [35, 683]
+                ],
+                "text": "free",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_1.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+
+
+    "dc_2": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [514, 414],
+                    [624, 414],
+                    [624, 478],
+                    [514, 478],
+                    [514, 414]
+                ],
+                "text": "swag",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [871, 426],
+                    [1030, 426],
+                    [1030, 486],
+                    [871, 486],
+                    [871, 426]
+                ],
+                "text": "ghmc",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [683, 453],
+                    [788, 453],
+                    [788, 476],
+                    [683, 476],
+                    [683, 453]
+                ],
+                "text": "hyderabad",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [318, 486],
+                    [356, 486],
+                    [356, 501],
+                    [318, 501],
+                    [318, 486]
+                ],
+                "text": "ଋଗ",
+                "script_language": "odia"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [454, 538],
+                    [859, 538],
+                    [859, 616],
+                    [454, 616],
+                    [454, 538]
+                ],
+                "text": "swachh",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [339, 634],
+                    [978, 634],
+                    [978, 712],
+                    [339, 712],
+                    [339, 634]
+                ],
+                "text": "survekshan",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [430, 860],
+                    [652, 860],
+                    [652, 952],
+                    [430, 952],
+                    [430, 860]
+                ],
+                "text": "ਗੇਗੜੇ",
+                "script_language": "punjabi"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [679, 868],
+                    [879, 868],
+                    [879, 991],
+                    [679, 991],
+                    [679, 868]
+                ],
+                "text": "ਹੈਮੂ",
+                "script_language": "punjabi"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [384, 989],
+                    [567, 989],
+                    [567, 1070],
+                    [384, 1070],
+                    [384, 989]
+                ],
+                "text": "dry",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [591, 994],
+                    [922, 994],
+                    [922, 1087],
+                    [591, 1087],
+                    [591, 994]
+                ],
+                "text": "waste",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [507, 1256],
+                    [645, 1256],
+                    [645, 1320],
+                    [507, 1320],
+                    [507, 1256]
+                ],
+                "text": "use",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [665, 1266],
+                    [767, 1266],
+                    [767, 1326],
+                    [665, 1326],
+                    [665, 1266]
+                ],
+                "text": "me",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [387, 1436],
+                    [910, 1436],
+                    [910, 1528],
+                    [387, 1528],
+                    [387, 1436]
+                ],
+                "text": "hyderabad",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_2.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_3": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [198, 43],
+                    [652, 43],
+                    [652, 149],
+                    [198, 149],
+                    [198, 43]
+                ],
+                "text": "igadgets",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [676, 70],
+                    [805, 70],
+                    [805, 86],
+                    [676, 86],
+                    [676, 70]
+                ],
+                "text": "ph9188591886",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [702, 105],
+                    [803, 105],
+                    [803, 140],
+                    [702, 140],
+                    [702, 105]
+                ],
+                "text": "ఐగాడ్జెట్స్",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [192, 149],
+                    [309, 149],
+                    [309, 202],
+                    [192, 202],
+                    [192, 149]
+                ],
+                "text": "apple",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [320, 152],
+                    [498, 152],
+                    [498, 196],
+                    [320, 196],
+                    [320, 152]
+                ],
+                "text": "premium",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [508, 155],
+                    [658, 155],
+                    [658, 197],
+                    [508, 197],
+                    [508, 155]
+                ],
+                "text": "service",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [670, 158],
+                    [809, 158],
+                    [809, 199],
+                    [670, 199],
+                    [670, 158]
+                ],
+                "text": "center",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [141, 207],
+                    [225, 207],
+                    [225, 246],
+                    [141, 246],
+                    [141, 207]
+                ],
+                "text": "કામરતા",
+                "script_language": "gujarati"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [324, 209],
+                    [439, 209],
+                    [439, 248],
+                    [324, 248],
+                    [324, 209]
+                ],
+                "text": "macbook",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [34, 218],
+                    [117, 218],
+                    [117, 245],
+                    [34, 245],
+                    [34, 218]
+                ],
+                "text": "iphone",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [249, 218],
+                    [304, 218],
+                    [304, 247],
+                    [249, 247],
+                    [249, 218]
+                ],
+                "text": "ipad",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [445, 216],
+                    [525, 216],
+                    [525, 250],
+                    [445, 250],
+                    [445, 216]
+                ],
+                "text": "limac",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [544, 219],
+                    [635, 219],
+                    [635, 250],
+                    [544, 250],
+                    [544, 219]
+                ],
+                "text": "service",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [665, 229],
+                    [808, 229],
+                    [808, 253],
+                    [665, 253],
+                    [665, 229]
+                ],
+                "text": "accessories",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [237, 254],
+                    [311, 254],
+                    [311, 271],
+                    [237, 271],
+                    [237, 254]
+                ],
+                "text": "weareinno",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [281, 329],
+                    [653, 329],
+                    [653, 420],
+                    [281, 420],
+                    [281, 329]
+                ],
+                "text": "igadgets",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [200, 368],
+                    [247, 368],
+                    [247, 402],
+                    [200, 402],
+                    [200, 368]
+                ],
+                "text": "ig",
+                "script_language": "english"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [523, 411],
+                    [560, 411],
+                    [560, 425],
+                    [523, 425],
+                    [523, 411]
+                ],
+                "text": "apple",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [562, 410],
+                    [613, 410],
+                    [613, 425],
+                    [562, 425],
+                    [562, 410]
+                ],
+                "text": "જણાંપાસ",
+                "script_language": "gujarati"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [661, 411],
+                    [705, 411],
+                    [705, 427],
+                    [661, 427],
+                    [661, 411]
+                ],
+                "text": "center",
+                "script_language": "english"
+            },
+            "polygon_20": {
+                "coordinates": [
+                    [84, 486],
+                    [130, 486],
+                    [130, 502],
+                    [84, 502],
+                    [84, 486]
+                ],
+                "text": "anil",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_3.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_4": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [185, 230],
+                    [498, 230],
+                    [498, 313],
+                    [185, 313],
+                    [185, 230]
+                ],
+                "text": "అన్నపూర్ణ",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [318, 323],
+                    [497, 323],
+                    [497, 380],
+                    [318, 380],
+                    [318, 323]
+                ],
+                "text": "హాసల్",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [199, 322],
+                    [304, 322],
+                    [304, 395],
+                    [199, 395],
+                    [199, 322]
+                ],
+                "text": "k6",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [400, 377],
+                    [440, 377],
+                    [440, 402],
+                    [400, 402],
+                    [400, 377]
+                ],
+                "text": "ੲਹ",
+                "script_language": "punjabi"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_4.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_5": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [449, 288],
+                    [844, 288],
+                    [844, 384],
+                    [449, 384],
+                    [449, 288]
+                ],
+                "text": "pavans",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [755, 413],
+                    [1150, 413],
+                    [1150, 517],
+                    [755, 517],
+                    [755, 413]
+                ],
+                "text": "centre",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [149, 417],
+                    [721, 417],
+                    [721, 518],
+                    [149, 518],
+                    [149, 417]
+                ],
+                "text": "endocrine",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [1014, 544],
+                    [1154, 544],
+                    [1154, 591],
+                    [1014, 591],
+                    [1014, 544]
+                ],
+                "text": "care",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [737, 545],
+                    [998, 545],
+                    [998, 592],
+                    [737, 592],
+                    [737, 545]
+                ],
+                "text": "hormone",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [165, 548],
+                    [415, 548],
+                    [415, 594],
+                    [165, 594],
+                    [165, 548]
+                ],
+                "text": "diabetes",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [456, 547],
+                    [689, 547],
+                    [689, 593],
+                    [456, 593],
+                    [456, 547]
+                ],
+                "text": "thyroid",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [710, 559],
+                    [724, 559],
+                    [724, 579],
+                    [710, 579],
+                    [710, 559]
+                ],
+                "text": "ਹੈ",
+                "script_language": "punjabi"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [303, 731],
+                    [365, 731],
+                    [365, 774],
+                    [303, 774],
+                    [303, 731]
+                ],
+                "text": "dr",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [384, 730],
+                    [559, 730],
+                    [559, 773],
+                    [384, 773],
+                    [384, 730]
+                ],
+                "text": "pavan",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [577, 730],
+                    [756, 730],
+                    [756, 774],
+                    [577, 774],
+                    [577, 730]
+                ],
+                "text": "kumar",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [772, 730],
+                    [957, 730],
+                    [957, 775],
+                    [772, 775],
+                    [772, 730]
+                ],
+                "text": "uppula",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [318, 788],
+                    [397, 788],
+                    [397, 825],
+                    [318, 825],
+                    [318, 788]
+                ],
+                "text": "md",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [408, 788],
+                    [478, 788],
+                    [478, 823],
+                    [408, 823],
+                    [408, 788]
+                ],
+                "text": "dm",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [488, 788],
+                    [578, 788],
+                    [578, 823],
+                    [488, 823],
+                    [488, 788]
+                ],
+                "text": "endo",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [587, 788],
+                    [676, 788],
+                    [676, 830],
+                    [587, 830],
+                    [587, 788]
+                ],
+                "text": "ર",
+                "script_language": "gujarati"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [687, 789],
+                    [921, 789],
+                    [921, 832],
+                    [687, 832],
+                    [687, 789]
+                ],
+                "text": "chandigarh",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_5.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_6": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [624, 22],
+                    [985, 22],
+                    [985, 325],
+                    [624, 325],
+                    [624, 22]
+                ],
+                "text": "મહાર",
+                "script_language": "gujarati"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [19, 255],
+                    [439, 255],
+                    [439, 345],
+                    [19, 345],
+                    [19, 255]
+                ],
+                "text": "ceube",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_6.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_7": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [337, 271],
+                    [497, 271],
+                    [497, 339],
+                    [337, 339],
+                    [337, 271]
+                ],
+                "text": "ncc",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [718, 887],
+                    [924, 887],
+                    [924, 979],
+                    [718, 979],
+                    [718, 887]
+                ],
+                "text": "strip",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [399, 896],
+                    [693, 896],
+                    [693, 994],
+                    [399, 994],
+                    [399, 896]
+                ],
+                "text": "rumble",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [537, 990],
+                    [785, 990],
+                    [785, 1087],
+                    [537, 1087],
+                    [537, 990]
+                ],
+                "text": "ahead",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_7.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_8": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [617, 190],
+                    [847, 190],
+                    [847, 291],
+                    [617, 291],
+                    [617, 190]
+                ],
+                "text": "பா்ரம்",
+                "script_language": "tamil"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [629, 265],
+                    [763, 265],
+                    [763, 334],
+                    [629, 334],
+                    [629, 265]
+                ],
+                "text": "clinic",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [500, 458],
+                    [653, 458],
+                    [653, 498],
+                    [500, 498],
+                    [500, 458]
+                ],
+                "text": "renew",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [663, 459],
+                    [721, 459],
+                    [721, 498],
+                    [663, 498],
+                    [663, 459]
+                ],
+                "text": "ur",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [731, 459],
+                    [838, 459],
+                    [838, 498],
+                    [731, 498],
+                    [731, 459]
+                ],
+                "text": "look",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [721, 538],
+                    [1034, 538],
+                    [1034, 653],
+                    [721, 653],
+                    [721, 538]
+                ],
+                "text": "எம்",
+                "script_language": "tamil"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [254, 536],
+                    [695, 536],
+                    [695, 714],
+                    [254, 714],
+                    [254, 536]
+                ],
+                "text": "பெரம்",
+                "script_language": "tamil"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [548, 747],
+                    [906, 747],
+                    [906, 836],
+                    [548, 836],
+                    [548, 747]
+                ],
+                "text": "floor",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [313, 774],
+                    [492, 774],
+                    [492, 859],
+                    [313, 859],
+                    [313, 774]
+                ],
+                "text": "3rd",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_8.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_9": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [116, 178],
+                    [614, 178],
+                    [614, 378],
+                    [116, 378],
+                    [116, 178]
+                ],
+                "text": "ૠષિઋદિવાદિન",
+                "script_language": "gujarati"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [157, 388],
+                    [326, 388],
+                    [326, 490],
+                    [157, 490],
+                    [157, 388]
+                ],
+                "text": "ఫ్యాబ౦",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [327, 392],
+                    [589, 392],
+                    [589, 473],
+                    [327, 473],
+                    [327, 392]
+                ],
+                "text": "ఇ౦డియా",
+                "script_language": "telugu"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_9.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_10": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [907, 112],
+                    [1203, 112],
+                    [1203, 273],
+                    [907, 273],
+                    [907, 112]
+                ],
+                "text": "ੴ",
+                "script_language": "punjabi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [1215, 114],
+                    [1561, 114],
+                    [1561, 266],
+                    [1215, 266],
+                    [1215, 114]
+                ],
+                "text": "పరల్డ్",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [393, 129],
+                    [894, 129],
+                    [894, 240],
+                    [393, 240],
+                    [393, 129]
+                ],
+                "text": "సవకార్",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [1357, 412],
+                    [1433, 412],
+                    [1433, 436],
+                    [1357, 436],
+                    [1357, 412]
+                ],
+                "text": "कोळकारकरण",
+                "script_language": "marathi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [1025, 414],
+                    [1090, 414],
+                    [1090, 435],
+                    [1025, 435],
+                    [1025, 414]
+                ],
+                "text": "nuvo",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [37, 571],
+                    [64, 571],
+                    [64, 583],
+                    [37, 583],
+                    [37, 571]
+                ],
+                "text": "7386",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [31, 584],
+                    [69, 584],
+                    [69, 595],
+                    [31, 595],
+                    [31, 584]
+                ],
+                "text": "400400",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [324, 839],
+                    [411, 839],
+                    [411, 869],
+                    [324, 869],
+                    [324, 839]
+                ],
+                "text": "ts07gl0423",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [1473, 856],
+                    [1511, 856],
+                    [1511, 881],
+                    [1473, 881],
+                    [1473, 856]
+                ],
+                "text": "ap29",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [1476, 868],
+                    [1534, 868],
+                    [1534, 899],
+                    [1476, 899],
+                    [1476, 868]
+                ],
+                "text": "ax9755",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_10.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_11": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [331, 181],
+                    [537, 181],
+                    [537, 430],
+                    [331, 430],
+                    [331, 181]
+                ],
+                "text": "no",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [541, 194],
+                    [1167, 194],
+                    [1167, 451],
+                    [541, 451],
+                    [541, 194]
+                ],
+                "text": "parking",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [341, 522],
+                    [618, 522],
+                    [618, 731],
+                    [341, 731],
+                    [341, 522]
+                ],
+                "text": "ੴਹੂੰ",
+                "script_language": "punjabi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [623, 526],
+                    [1123, 526],
+                    [1123, 696],
+                    [623, 696],
+                    [623, 526]
+                ],
+                "text": "ਹਰਜੰਗਹੰਰੀ1091",
+                "script_language": "punjabi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [519, 752],
+                    [937, 752],
+                    [937, 907],
+                    [519, 907],
+                    [519, 752]
+                ],
+                "text": "నిలుపరాదు",
+                "script_language": "telugu"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_11.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_12": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [327, 603],
+                    [534, 603],
+                    [534, 667],
+                    [327, 667],
+                    [327, 603]
+                ],
+                "text": "హైదరాబాదు",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [547, 612],
+                    [817, 612],
+                    [817, 685],
+                    [547, 685],
+                    [547, 612]
+                ],
+                "text": "విశ్వవిద్యాలయ౦",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [339, 675],
+                    [512, 675],
+                    [512, 752],
+                    [339, 752],
+                    [339, 675]
+                ],
+                "text": "हैदराबाद",
+                "script_language": "marathi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [522, 683],
+                    [802, 683],
+                    [802, 760],
+                    [522, 760],
+                    [522, 683]
+                ],
+                "text": "विश्वविद्यालय",
+                "script_language": "marathi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [320, 770],
+                    [811, 770],
+                    [811, 846],
+                    [320, 846],
+                    [320, 770]
+                ],
+                "text": "wiversityofhyderabad",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_12.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_13": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [151, 288],
+                    [794, 288],
+                    [794, 615],
+                    [151, 615],
+                    [151, 288]
+                ],
+                "text": "gem",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [172, 638],
+                    [759, 638],
+                    [759, 746],
+                    [172, 746],
+                    [172, 638]
+                ],
+                "text": "madinaguda",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [204, 745],
+                    [723, 745],
+                    [723, 841],
+                    [204, 841],
+                    [204, 745]
+                ],
+                "text": "9912342658",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [163, 1090],
+                    [370, 1090],
+                    [370, 1106],
+                    [163, 1106],
+                    [163, 1090]
+                ],
+                "text": "ਪਾਮਾਇਤਾ",
+                "script_language": "punjabi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [403, 1091],
+                    [499, 1091],
+                    [499, 1107],
+                    [403, 1107],
+                    [403, 1091]
+                ],
+                "text": "gixer",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [535, 1092],
+                    [734, 1092],
+                    [734, 1106],
+                    [535, 1106],
+                    [535, 1092]
+                ],
+                "text": "fstromsx",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_13.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_14": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [1193, 101],
+                    [1224, 101],
+                    [1224, 134],
+                    [1193, 134],
+                    [1193, 101]
+                ],
+                "text": "મા",
+                "script_language": "gujarati"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [1059, 102],
+                    [1189, 102],
+                    [1189, 140],
+                    [1059, 140],
+                    [1059, 102]
+                ],
+                "text": "saraswa",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [919, 109],
+                    [1026, 109],
+                    [1026, 142],
+                    [919, 142],
+                    [919, 109]
+                ],
+                "text": "yamuna",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [1187, 143],
+                    [1237, 143],
+                    [1237, 178],
+                    [1187, 178],
+                    [1187, 143]
+                ],
+                "text": "tri",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [1059, 144],
+                    [1185, 144],
+                    [1185, 181],
+                    [1059, 181],
+                    [1059, 144]
+                ],
+                "text": "gango",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [880, 150],
+                    [1009, 150],
+                    [1009, 185],
+                    [880, 185],
+                    [880, 150]
+                ],
+                "text": "ganga",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_14.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_15": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [1168, 116],
+                    [1314, 116],
+                    [1314, 148],
+                    [1168, 148],
+                    [1168, 116]
+                ],
+                "text": "ദേവസ്ഥാനം",
+                "script_language": "malayalam"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [1111, 133],
+                    [1152, 133],
+                    [1152, 156],
+                    [1111, 156],
+                    [1111, 133]
+                ],
+                "text": "0ના",
+                "script_language": "gujarati"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [577, 144],
+                    [1101, 144],
+                    [1101, 202],
+                    [577, 202],
+                    [577, 144]
+                ],
+                "text": "ਵ੍ਰੀਆਰਪੀ",
+                "script_language": "punjabi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [1068, 163],
+                    [1220, 163],
+                    [1220, 203],
+                    [1068, 203],
+                    [1068, 163]
+                ],
+                "text": "services",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [852, 178],
+                    [1059, 178],
+                    [1059, 221],
+                    [852, 221],
+                    [852, 178]
+                ],
+                "text": "misbhavani",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [664, 203],
+                    [850, 203],
+                    [850, 236],
+                    [664, 236],
+                    [664, 203]
+                ],
+                "text": "120001566",
+                "script_language": "assamese"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [1325, 242],
+                    [1376, 242],
+                    [1376, 264],
+                    [1325, 264],
+                    [1325, 242]
+                ],
+                "text": "47123",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [1263, 245],
+                    [1322, 245],
+                    [1322, 269],
+                    [1263, 269],
+                    [1263, 245]
+                ],
+                "text": "99484",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [1196, 250],
+                    [1254, 250],
+                    [1254, 273],
+                    [1196, 273],
+                    [1196, 250]
+                ],
+                "text": "02344",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [1139, 255],
+                    [1194, 255],
+                    [1194, 277],
+                    [1139, 277],
+                    [1139, 255]
+                ],
+                "text": "99493",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [871, 271],
+                    [963, 271],
+                    [963, 293],
+                    [871, 293],
+                    [871, 271]
+                ],
+                "text": "8101110999",
+                "script_language": "gujarati"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [884, 285],
+                    [1357, 285],
+                    [1357, 430],
+                    [884, 430],
+                    [884, 285]
+                ],
+                "text": "sports",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [521, 315],
+                    [855, 315],
+                    [855, 446],
+                    [521, 446],
+                    [521, 315]
+                ],
+                "text": "stars",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [1435, 392],
+                    [1476, 392],
+                    [1476, 465],
+                    [1435, 465],
+                    [1435, 392]
+                ],
+                "text": "stars",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [671, 487],
+                    [710, 487],
+                    [710, 508],
+                    [671, 508],
+                    [671, 487]
+                ],
+                "text": "੦5੦",
+                "script_language": "punjabi"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [341, 500],
+                    [444, 500],
+                    [444, 559],
+                    [341, 559],
+                    [341, 500]
+                ],
+                "text": "sonata",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [1442, 614],
+                    [1499, 614],
+                    [1499, 881],
+                    [1442, 881],
+                    [1442, 614]
+                ],
+                "text": "श्रू",
+                "script_language": "hindi"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [1088, 706],
+                    [1124, 706],
+                    [1124, 753],
+                    [1088, 753],
+                    [1088, 706]
+                ],
+                "text": "shop",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [1019, 718],
+                    [1101, 718],
+                    [1101, 758],
+                    [1019, 758],
+                    [1019, 718]
+                ],
+                "text": "പഞ്ചവർമ്പല",
+                "script_language": "malayalam"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [1325, 858],
+                    [1360, 858],
+                    [1360, 870],
+                    [1325, 870],
+                    [1325, 858]
+                ],
+                "text": "world",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_15.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_16": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [248, 40],
+                    [326, 40],
+                    [326, 70],
+                    [248, 70],
+                    [248, 40]
+                ],
+                "text": "੧੦੦੦੦",
+                "script_language": "punjabi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [888, 34],
+                    [1268, 34],
+                    [1268, 134],
+                    [888, 134],
+                    [888, 34]
+                ],
+                "text": "ૠ",
+                "script_language": "gujarati"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [245, 71],
+                    [279, 71],
+                    [279, 85],
+                    [245, 85],
+                    [245, 71]
+                ],
+                "text": "home",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [279, 71],
+                    [320, 71],
+                    [320, 85],
+                    [279, 85],
+                    [279, 71]
+                ],
+                "text": "finance",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [385, 118],
+                    [443, 118],
+                    [443, 169],
+                    [385, 169],
+                    [385, 118]
+                ],
+                "text": "ഈ ",
+                "script_language": "malayalam"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [862, 137],
+                    [1213, 137],
+                    [1213, 182],
+                    [862, 182],
+                    [862, 137]
+                ],
+                "text": "get225054000000",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [1216, 136],
+                    [1285, 136],
+                    [1285, 154],
+                    [1216, 154],
+                    [1216, 136]
+                ],
+                "text": "ശ്രീ",
+                "script_language": "malayalam"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [269, 209],
+                    [404, 209],
+                    [404, 233],
+                    [269, 233],
+                    [269, 209]
+                ],
+                "text": "officespacebhupa",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [374, 225],
+                    [437, 225],
+                    [437, 240],
+                    [374, 240],
+                    [374, 225]
+                ],
+                "text": "regular",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [328, 227],
+                    [372, 227],
+                    [372, 242],
+                    [328, 242],
+                    [328, 227]
+                ],
+                "text": "floor",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [296, 229],
+                    [327, 229],
+                    [327, 242],
+                    [296, 242],
+                    [296, 229]
+                ],
+                "text": "top",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [964, 219],
+                    [1225, 219],
+                    [1225, 295],
+                    [964, 295],
+                    [964, 219]
+                ],
+                "text": "స్పెక్సమేకర్స్",
+                "script_language": "telugu"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [450, 240],
+                    [628, 240],
+                    [628, 259],
+                    [450, 259],
+                    [450, 240]
+                ],
+                "text": "gst37aapcs6371q129",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [275, 246],
+                    [433, 246],
+                    [433, 272],
+                    [275, 272],
+                    [275, 246]
+                ],
+                "text": "tolets",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [1417, 241],
+                    [1581, 241],
+                    [1581, 363],
+                    [1417, 363],
+                    [1417, 241]
+                ],
+                "text": "mi",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [272, 273],
+                    [316, 273],
+                    [316, 286],
+                    [272, 286],
+                    [272, 273]
+                ],
+                "text": "flatno",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [381, 290],
+                    [428, 290],
+                    [428, 300],
+                    [381, 300],
+                    [381, 290]
+                ],
+                "text": "૦૭૪૧૫૦",
+                "script_language": "gujarati"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [383, 301],
+                    [433, 301],
+                    [433, 323],
+                    [383, 323],
+                    [383, 301]
+                ],
+                "text": "9848",
+                "script_language": "gujarati"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [269, 302],
+                    [371, 302],
+                    [371, 329],
+                    [269, 329],
+                    [269, 302]
+                ],
+                "text": "9848343678",
+                "script_language": "gujarati"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [449, 402],
+                    [1189, 402],
+                    [1189, 490],
+                    [449, 490],
+                    [449, 402]
+                ],
+                "text": "specsmakers",
+                "script_language": "english"
+            },
+            "polygon_20": {
+                "coordinates": [
+                    [181, 576],
+                    [243, 576],
+                    [243, 610],
+                    [181, 610],
+                    [181, 576]
+                ],
+                "text": "g2",
+                "script_language": "english"
+            },
+            "polygon_21": {
+                "coordinates": [
+                    [317, 575],
+                    [419, 575],
+                    [419, 626],
+                    [317, 626],
+                    [317, 575]
+                ],
+                "text": "g2",
+                "script_language": "english"
+            },
+            "polygon_22": {
+                "coordinates": [
+                    [22, 693],
+                    [152, 693],
+                    [152, 759],
+                    [22, 759],
+                    [22, 693]
+                ],
+                "text": "દવાઓ",
+                "script_language": "gujarati"
+            },
+            "polygon_23": {
+                "coordinates": [
+                    [185, 719],
+                    [358, 719],
+                    [358, 755],
+                    [185, 755],
+                    [185, 719]
+                ],
+                "text": "912100",
+                "script_language": "punjabi"
+            },
+            "polygon_24": {
+                "coordinates": [
+                    [685, 760],
+                    [757, 760],
+                    [757, 784],
+                    [685, 784],
+                    [685, 760]
+                ],
+                "text": "ofasta",
+                "script_language": "english"
+            },
+            "polygon_25": {
+                "coordinates": [
+                    [2, 776],
+                    [263, 776],
+                    [263, 851],
+                    [2, 851],
+                    [2, 776]
+                ],
+                "text": "ਸਿੰਘ",
+                "script_language": "punjabi"
+            },
+            "polygon_26": {
+                "coordinates": [
+                    [660, 793],
+                    [766, 793],
+                    [766, 814],
+                    [660, 814],
+                    [660, 793]
+                ],
+                "text": "eforward",
+                "script_language": "english"
+            },
+            "polygon_27": {
+                "coordinates": [
+                    [1130, 804],
+                    [1208, 804],
+                    [1208, 818],
+                    [1130, 818],
+                    [1130, 804]
+                ],
+                "text": "personalizedforyou",
+                "script_language": "english"
+            },
+            "polygon_28": {
+                "coordinates": [
+                    [1472, 844],
+                    [1597, 844],
+                    [1597, 879],
+                    [1472, 879],
+                    [1472, 844]
+                ],
+                "text": "mithai",
+                "script_language": "english"
+            },
+            "polygon_29": {
+                "coordinates": [
+                    [1496, 878],
+                    [1529, 878],
+                    [1529, 891],
+                    [1496, 891],
+                    [1496, 878]
+                ],
+                "text": "swe",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_16.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_17": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [383, 172],
+                    [521, 172],
+                    [521, 257],
+                    [383, 257],
+                    [383, 172]
+                ],
+                "text": "the",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [377, 257],
+                    [905, 257],
+                    [905, 432],
+                    [377, 432],
+                    [377, 257]
+                ],
+                "text": "kulcha",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [935, 305],
+                    [1472, 305],
+                    [1472, 475],
+                    [935, 475],
+                    [935, 305]
+                ],
+                "text": "kulture",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [504, 437],
+                    [938, 437],
+                    [938, 549],
+                    [504, 549],
+                    [504, 437]
+                ],
+                "text": "amritsar",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [965, 475],
+                    [1052, 475],
+                    [1052, 556],
+                    [965, 556],
+                    [965, 475]
+                ],
+                "text": "வீர்",
+                "script_language": "tamil"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [1076, 484],
+                    [1433, 484],
+                    [1433, 586],
+                    [1076, 586],
+                    [1076, 484]
+                ],
+                "text": "કરીમ શિવાય",
+                "script_language": "gujarati"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [1513, 915],
+                    [1557, 915],
+                    [1557, 943],
+                    [1513, 943],
+                    [1513, 915]
+                ],
+                "text": "3285",
+                "script_language": "gujarati"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [425, 1051],
+                    [518, 1051],
+                    [518, 1089],
+                    [425, 1089],
+                    [425, 1051]
+                ],
+                "text": "wy5",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [438, 1082],
+                    [521, 1082],
+                    [521, 1127],
+                    [438, 1127],
+                    [438, 1082]
+                ],
+                "text": "rking",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [411, 1126],
+                    [498, 1126],
+                    [498, 1187],
+                    [411, 1187],
+                    [411, 1126]
+                ],
+                "text": "marea",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_17.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_18": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [60, 338],
+                    [121, 338],
+                    [121, 360],
+                    [60, 360],
+                    [60, 338]
+                ],
+                "text": "0491",
+                "script_language": "gujarati"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [124, 341],
+                    [178, 341],
+                    [178, 360],
+                    [124, 360],
+                    [124, 341]
+                ],
+                "text": "73867",
+                "script_language": "gujarati"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [181, 344],
+                    [236, 344],
+                    [236, 362],
+                    [181, 362],
+                    [181, 344]
+                ],
+                "text": "06051",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [408, 348],
+                    [588, 348],
+                    [588, 443],
+                    [408, 443],
+                    [408, 348]
+                ],
+                "text": "ma",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [590, 349],
+                    [1160, 349],
+                    [1160, 453],
+                    [590, 453],
+                    [590, 349]
+                ],
+                "text": "yabazaar",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [244, 436],
+                    [1198, 436],
+                    [1198, 557],
+                    [244, 557],
+                    [244, 436]
+                ],
+                "text": "restaurant",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [1190, 663],
+                    [1307, 663],
+                    [1307, 694],
+                    [1190, 694],
+                    [1190, 663]
+                ],
+                "text": "அட்டோடி",
+                "script_language": "tamil"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [1335, 814],
+                    [1374, 814],
+                    [1374, 827],
+                    [1335, 827],
+                    [1335, 814]
+                ],
+                "text": "coffee",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [1320, 846],
+                    [1389, 846],
+                    [1389, 859],
+                    [1320, 859],
+                    [1320, 846]
+                ],
+                "text": "badammilk",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [304, 850],
+                    [363, 850],
+                    [363, 909],
+                    [304, 909],
+                    [304, 850]
+                ],
+                "text": "લંગ્સ",
+                "script_language": "gujarati"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [359, 853],
+                    [531, 853],
+                    [531, 911],
+                    [359, 911],
+                    [359, 853]
+                ],
+                "text": "యాబజార్",
+                "script_language": "telugu"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [1325, 862],
+                    [1386, 862],
+                    [1386, 877],
+                    [1325, 877],
+                    [1325, 862]
+                ],
+                "text": "lemontea",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [1328, 879],
+                    [1387, 879],
+                    [1387, 894],
+                    [1328, 894],
+                    [1328, 879]
+                ],
+                "text": "greentea",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [368, 942],
+                    [459, 942],
+                    [459, 957],
+                    [368, 957],
+                    [368, 942]
+                ],
+                "text": "cocoolego",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_18.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_19": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [331, 779],
+                    [864, 779],
+                    [864, 932],
+                    [331, 932],
+                    [331, 779]
+                ],
+                "text": "ekaa",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [340, 973],
+                    [862, 973],
+                    [862, 1056],
+                    [340, 1056],
+                    [340, 973]
+                ],
+                "text": "dentistry",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [350, 1078],
+                    [598, 1078],
+                    [598, 1150],
+                    [350, 1150],
+                    [350, 1078]
+                ],
+                "text": "90301",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [619, 1084],
+                    [852, 1084],
+                    [852, 1152],
+                    [619, 1152],
+                    [619, 1084]
+                ],
+                "text": "21100",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [441, 1201],
+                    [572, 1201],
+                    [572, 1264],
+                    [441, 1264],
+                    [441, 1201]
+                ],
+                "text": "2nd",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [586, 1202],
+                    [761, 1202],
+                    [761, 1265],
+                    [586, 1265],
+                    [586, 1202]
+                ],
+                "text": "floor",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_19.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_20": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [201, 177],
+                    [418, 177],
+                    [418, 221],
+                    [201, 221],
+                    [201, 177]
+                ],
+                "text": "పరాఠావాలా",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [634, 209],
+                    [1193, 209],
+                    [1193, 354],
+                    [634, 354],
+                    [634, 209]
+                ],
+                "text": "parathawala",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [730, 364],
+                    [945, 364],
+                    [945, 403],
+                    [730, 403],
+                    [730, 364]
+                ],
+                "text": "kondapur",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [208, 431],
+                    [416, 431],
+                    [416, 465],
+                    [208, 465],
+                    [208, 431]
+                ],
+                "text": "6281848903",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [1311, 470],
+                    [1365, 470],
+                    [1365, 483],
+                    [1311, 483],
+                    [1311, 470]
+                ],
+                "text": "zomato",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [1381, 491],
+                    [1429, 491],
+                    [1429, 504],
+                    [1381, 504],
+                    [1381, 491]
+                ],
+                "text": "ମ୍ୟୋ",
+                "script_language": "odia"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [1229, 627],
+                    [1313, 627],
+                    [1313, 661],
+                    [1229, 661],
+                    [1229, 627]
+                ],
+                "text": "sln",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [1359, 625],
+                    [1458, 625],
+                    [1458, 671],
+                    [1359, 671],
+                    [1359, 625]
+                ],
+                "text": "arathawala",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [1231, 665],
+                    [1315, 665],
+                    [1315, 678],
+                    [1231, 678],
+                    [1231, 665]
+                ],
+                "text": "coldpressedoils",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [1383, 684],
+                    [1429, 684],
+                    [1429, 698],
+                    [1383, 698],
+                    [1383, 684]
+                ],
+                "text": "801104118",
+                "script_language": "gujarati"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [733, 820],
+                    [913, 820],
+                    [913, 861],
+                    [733, 861],
+                    [733, 820]
+                ],
+                "text": "parathawala",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_20.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_21": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [271, 247],
+                    [343, 247],
+                    [343, 276],
+                    [271, 276],
+                    [271, 247]
+                ],
+                "text": "నరేష",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [840, 271],
+                    [873, 271],
+                    [873, 295],
+                    [840, 295],
+                    [840, 271]
+                ],
+                "text": "ph",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [891, 274],
+                    [1039, 274],
+                    [1039, 300],
+                    [891, 300],
+                    [891, 274]
+                ],
+                "text": "9505461222",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [183, 274],
+                    [270, 274],
+                    [270, 306],
+                    [183, 306],
+                    [183, 274]
+                ],
+                "text": "adida",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [273, 279],
+                    [334, 279],
+                    [334, 302],
+                    [273, 302],
+                    [273, 279]
+                ],
+                "text": "wsn",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [334, 280],
+                    [424, 280],
+                    [424, 311],
+                    [334, 311],
+                    [334, 280]
+                ],
+                "text": "మార్కెట",
+                "script_language": "telugu"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [438, 366],
+                    [579, 366],
+                    [579, 431],
+                    [438, 431],
+                    [438, 366]
+                ],
+                "text": "ഭരണ",
+                "script_language": "malayalam"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [589, 373],
+                    [787, 373],
+                    [787, 448],
+                    [589, 448],
+                    [589, 373]
+                ],
+                "text": "  ",
+                "script_language": "gujarati"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [409, 439],
+                    [618, 439],
+                    [618, 481],
+                    [409, 481],
+                    [409, 439]
+                ],
+                "text": "chicken",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [147, 442],
+                    [275, 442],
+                    [275, 474],
+                    [147, 474],
+                    [147, 442]
+                ],
+                "text": "chicken",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [626, 447],
+                    [810, 447],
+                    [810, 486],
+                    [626, 486],
+                    [626, 447]
+                ],
+                "text": "market",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [938, 473],
+                    [1055, 473],
+                    [1055, 500],
+                    [938, 500],
+                    [938, 473]
+                ],
+                "text": "mutton",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_21.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_22": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [621, 182],
+                    [721, 182],
+                    [721, 218],
+                    [621, 218],
+                    [621, 182]
+                ],
+                "text": "భారత",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [723, 185],
+                    [894, 185],
+                    [894, 231],
+                    [723, 231],
+                    [723, 185]
+                ],
+                "text": "ప్రభుత్వము",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [182, 195],
+                    [314, 195],
+                    [314, 273],
+                    [182, 273],
+                    [182, 195]
+                ],
+                "text": "కే౦ద్ర",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [311, 212],
+                    [522, 212],
+                    [522, 287],
+                    [311, 287],
+                    [311, 212]
+                ],
+                "text": "ప్రభుత్వ",
+                "script_language": "telugu"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [534, 216],
+                    [802, 216],
+                    [802, 296],
+                    [534, 296],
+                    [534, 216]
+                ],
+                "text": "ఉద్యోగుల",
+                "script_language": "telugu"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [812, 234],
+                    [960, 234],
+                    [960, 305],
+                    [812, 305],
+                    [812, 234]
+                ],
+                "text": "గృహ",
+                "script_language": "telugu"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [973, 238],
+                    [1371, 238],
+                    [1371, 301],
+                    [973, 301],
+                    [973, 238]
+                ],
+                "text": "సముదాయ౦",
+                "script_language": "telugu"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [548, 292],
+                    [707, 292],
+                    [707, 348],
+                    [548, 348],
+                    [548, 292]
+                ],
+                "text": "గచ్చిబౌలి",
+                "script_language": "telugu"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [715, 300],
+                    [939, 300],
+                    [939, 352],
+                    [715, 352],
+                    [715, 300]
+                ],
+                "text": "హైదరాబాద్",
+                "script_language": "telugu"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [525, 359],
+                    [646, 359],
+                    [646, 399],
+                    [525, 399],
+                    [525, 359]
+                ],
+                "text": "भारत",
+                "script_language": "hindi"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [664, 368],
+                    [823, 368],
+                    [823, 408],
+                    [664, 408],
+                    [664, 368]
+                ],
+                "text": "सरकार",
+                "script_language": "marathi"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [79, 370],
+                    [315, 370],
+                    [315, 458],
+                    [79, 458],
+                    [79, 370]
+                ],
+                "text": "केन्द्रीय",
+                "script_language": "marathi"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [656, 402],
+                    [983, 402],
+                    [983, 497],
+                    [656, 497],
+                    [656, 402]
+                ],
+                "text": "कर्मचारी",
+                "script_language": "marathi"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [347, 407],
+                    [623, 407],
+                    [623, 475],
+                    [347, 475],
+                    [347, 407]
+                ],
+                "text": "सरकार",
+                "script_language": "hindi"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [1021, 442],
+                    [1297, 442],
+                    [1297, 513],
+                    [1021, 513],
+                    [1021, 442]
+                ],
+                "text": "आवास",
+                "script_language": "hindi"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [425, 470],
+                    [653, 470],
+                    [653, 540],
+                    [425, 540],
+                    [425, 470]
+                ],
+                "text": "गच्चीबौली",
+                "script_language": "marathi"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [678, 483],
+                    [877, 483],
+                    [877, 546],
+                    [678, 546],
+                    [678, 483]
+                ],
+                "text": "हैदराबाद",
+                "script_language": "hindi"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [482, 551],
+                    [608, 551],
+                    [608, 590],
+                    [482, 590],
+                    [482, 551]
+                ],
+                "text": "govt",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [0, 552],
+                    [335, 552],
+                    [335, 622],
+                    [0, 622],
+                    [0, 552]
+                ],
+                "text": "central",
+                "script_language": "english"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [620, 560],
+                    [680, 560],
+                    [680, 591],
+                    [620, 591],
+                    [620, 560]
+                ],
+                "text": "of",
+                "script_language": "english"
+            },
+            "polygon_20": {
+                "coordinates": [
+                    [691, 564],
+                    [806, 564],
+                    [806, 600],
+                    [691, 600],
+                    [691, 564]
+                ],
+                "text": "india",
+                "script_language": "english"
+            },
+            "polygon_21": {
+                "coordinates": [
+                    [359, 562],
+                    [584, 562],
+                    [584, 641],
+                    [359, 641],
+                    [359, 562]
+                ],
+                "text": "govt",
+                "script_language": "english"
+            },
+            "polygon_22": {
+                "coordinates": [
+                    [612, 594],
+                    [857, 594],
+                    [857, 656],
+                    [612, 656],
+                    [612, 594]
+                ],
+                "text": "staff",
+                "script_language": "english"
+            },
+            "polygon_23": {
+                "coordinates": [
+                    [883, 611],
+                    [1350, 611],
+                    [1350, 691],
+                    [883, 691],
+                    [883, 611]
+                ],
+                "text": "quarters",
+                "script_language": "english"
+            },
+            "polygon_24": {
+                "coordinates": [
+                    [292, 637],
+                    [623, 637],
+                    [623, 701],
+                    [292, 701],
+                    [292, 637]
+                ],
+                "text": "gachibowli",
+                "script_language": "english"
+            },
+            "polygon_25": {
+                "coordinates": [
+                    [641, 663],
+                    [975, 663],
+                    [975, 722],
+                    [641, 722],
+                    [641, 663]
+                ],
+                "text": "hyderabad",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_22.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_23": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [584, 418],
+                    [748, 418],
+                    [748, 465],
+                    [584, 465],
+                    [584, 418]
+                ],
+                "text": "भारत",
+                "script_language": "hindi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [530, 462],
+                    [797, 462],
+                    [797, 532],
+                    [530, 532],
+                    [530, 462]
+                ],
+                "text": "पेट्रलियम",
+                "script_language": "hindi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [533, 555],
+                    [751, 555],
+                    [751, 624],
+                    [533, 624],
+                    [533, 555]
+                ],
+                "text": "07",
+                "script_language": "kannada"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [653, 639],
+                    [780, 639],
+                    [780, 681],
+                    [653, 681],
+                    [653, 639]
+                ],
+                "text": "ફિલિપ્સ",
+                "script_language": "gujarati"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [551, 930],
+                    [617, 930],
+                    [617, 965],
+                    [551, 965],
+                    [551, 930]
+                ],
+                "text": "ગિ16",
+                "script_language": "gujarati"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [622, 932],
+                    [662, 932],
+                    [662, 967],
+                    [622, 967],
+                    [622, 932]
+                ],
+                "text": "for",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [666, 935],
+                    [733, 935],
+                    [733, 971],
+                    [666, 971],
+                    [666, 935]
+                ],
+                "text": "sure",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_23.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_24": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [23, 441],
+                    [271, 441],
+                    [271, 499],
+                    [23, 499],
+                    [23, 441]
+                ],
+                "text": "indian",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [289, 448],
+                    [893, 448],
+                    [893, 512],
+                    [289, 512],
+                    [289, 448]
+                ],
+                "text": "பொமை",
+                "script_language": "tamil"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [906, 457],
+                    [1161, 457],
+                    [1161, 515],
+                    [906, 515],
+                    [906, 457]
+                ],
+                "text": "limited",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_24.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_25": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [500, 510],
+                    [596, 510],
+                    [596, 551],
+                    [500, 551],
+                    [500, 510]
+                ],
+                "text": "swach",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [596, 513],
+                    [665, 513],
+                    [665, 537],
+                    [596, 537],
+                    [596, 513]
+                ],
+                "text": "राजारतलण",
+                "script_language": "hindi"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [704, 529],
+                    [784, 529],
+                    [784, 557],
+                    [704, 557],
+                    [704, 529]
+                ],
+                "text": "ghmc",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [597, 535],
+                    [660, 535],
+                    [660, 551],
+                    [597, 551],
+                    [597, 535]
+                ],
+                "text": "hyderabad",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [463, 584],
+                    [702, 584],
+                    [702, 631],
+                    [463, 631],
+                    [463, 584]
+                ],
+                "text": "swachh",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [392, 640],
+                    [771, 640],
+                    [771, 687],
+                    [392, 687],
+                    [392, 640]
+                ],
+                "text": "survekshan",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [447, 774],
+                    [571, 774],
+                    [571, 835],
+                    [447, 835],
+                    [447, 774]
+                ],
+                "text": "తడి",
+                "script_language": "telugu"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [586, 778],
+                    [718, 778],
+                    [718, 854],
+                    [586, 854],
+                    [586, 778]
+                ],
+                "text": "ਹੈਂ",
+                "script_language": "punjabi"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [406, 862],
+                    [537, 862],
+                    [537, 914],
+                    [406, 914],
+                    [406, 862]
+                ],
+                "text": "wet",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [550, 862],
+                    [752, 862],
+                    [752, 913],
+                    [550, 913],
+                    [550, 862]
+                ],
+                "text": "waste",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [408, 952],
+                    [475, 952],
+                    [475, 1005],
+                    [408, 1005],
+                    [408, 952]
+                ],
+                "text": "do",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [486, 952],
+                    [587, 952],
+                    [587, 1007],
+                    [486, 1007],
+                    [486, 952]
+                ],
+                "text": "not",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [627, 952],
+                    [753, 952],
+                    [753, 1008],
+                    [627, 1008],
+                    [627, 952]
+                ],
+                "text": "tter",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [494, 1033],
+                    [581, 1033],
+                    [581, 1070],
+                    [494, 1070],
+                    [494, 1033]
+                ],
+                "text": "use",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [594, 1033],
+                    [658, 1033],
+                    [658, 1070],
+                    [594, 1070],
+                    [594, 1033]
+                ],
+                "text": "me",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [413, 1160],
+                    [751, 1160],
+                    [751, 1207],
+                    [413, 1207],
+                    [413, 1160]
+                ],
+                "text": "hyderabad",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_25.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_26": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [73, 355],
+                    [301, 355],
+                    [301, 393],
+                    [73, 393],
+                    [73, 355]
+                ],
+                "text": "కాకతీయుల",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [308, 365],
+                    [434, 365],
+                    [434, 407],
+                    [308, 407],
+                    [308, 365]
+                ],
+                "text": "০০৪০",
+                "script_language": "assamese"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [101, 407],
+                    [304, 407],
+                    [304, 449],
+                    [101, 449],
+                    [101, 407]
+                ],
+                "text": "కమలంతోనే",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [306, 414],
+                    [414, 414],
+                    [414, 459],
+                    [306, 459],
+                    [306, 414]
+                ],
+                "text": "సాధ్య౦",
+                "script_language": "telugu"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [49, 460],
+                    [164, 460],
+                    [164, 489],
+                    [49, 489],
+                    [49, 460]
+                ],
+                "text": "హస్మకొండ",
+                "script_language": "telugu"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [275, 462],
+                    [354, 462],
+                    [354, 488],
+                    [275, 488],
+                    [275, 462]
+                ],
+                "text": "బజేపని",
+                "script_language": "telugu"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [167, 463],
+                    [235, 463],
+                    [235, 494],
+                    [167, 494],
+                    [167, 463]
+                ],
+                "text": "అభిప్ప",
+                "script_language": "telugu"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [233, 466],
+                    [273, 466],
+                    [273, 496],
+                    [233, 496],
+                    [233, 466]
+                ],
+                "text": "05",
+                "script_language": "punjabi"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [356, 465],
+                    [459, 465],
+                    [459, 498],
+                    [356, 498],
+                    [356, 465]
+                ],
+                "text": "11310000",
+                "script_language": "punjabi"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [409, 508],
+                    [542, 508],
+                    [542, 545],
+                    [409, 545],
+                    [409, 508]
+                ],
+                "text": "ఏసుగుల",
+                "script_language": "telugu"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [547, 511],
+                    [647, 511],
+                    [647, 551],
+                    [547, 551],
+                    [547, 511]
+                ],
+                "text": "00తੰ",
+                "script_language": "punjabi"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [99, 513],
+                    [163, 513],
+                    [163, 540],
+                    [99, 540],
+                    [99, 513]
+                ],
+                "text": "బజేప",
+                "script_language": "telugu"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [652, 514],
+                    [707, 514],
+                    [707, 556],
+                    [652, 556],
+                    [652, 514]
+                ],
+                "text": "੦੦",
+                "script_language": "punjabi"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [167, 518],
+                    [221, 518],
+                    [221, 549],
+                    [167, 549],
+                    [167, 518]
+                ],
+                "text": "రాష్ట్ర్ట",
+                "script_language": "telugu"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [224, 520],
+                    [313, 520],
+                    [313, 546],
+                    [224, 546],
+                    [224, 520]
+                ],
+                "text": "అధికార",
+                "script_language": "telugu"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [316, 519],
+                    [401, 519],
+                    [401, 547],
+                    [316, 547],
+                    [316, 519]
+                ],
+                "text": "ప్రతినిధి",
+                "script_language": "telugu"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_26.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_27": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [187, 157],
+                    [322, 157],
+                    [322, 218],
+                    [187, 218],
+                    [187, 157]
+                ],
+                "text": "ఫైనాన్",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [324, 173],
+                    [411, 173],
+                    [411, 227],
+                    [324, 227],
+                    [324, 173]
+                ],
+                "text": "బుద్ద",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [137, 228],
+                    [337, 228],
+                    [337, 284],
+                    [137, 284],
+                    [137, 228]
+                ],
+                "text": "finance",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [346, 243],
+                    [537, 243],
+                    [537, 298],
+                    [346, 298],
+                    [346, 243]
+                ],
+                "text": "buddha",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [71, 305],
+                    [121, 305],
+                    [121, 336],
+                    [71, 336],
+                    [71, 305]
+                ],
+                "text": "cin",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [122, 307],
+                    [337, 307],
+                    [337, 347],
+                    [122, 347],
+                    [122, 307]
+                ],
+                "text": "u67190ka0212ptc064747",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [342, 320],
+                    [378, 320],
+                    [378, 351],
+                    [342, 351],
+                    [342, 320]
+                ],
+                "text": "gst",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [379, 323],
+                    [393, 323],
+                    [393, 352],
+                    [379, 352],
+                    [379, 323]
+                ],
+                "text": "ਜੈ",
+                "script_language": "punjabi"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [393, 324],
+                    [543, 324],
+                    [543, 359],
+                    [393, 359],
+                    [393, 324]
+                ],
+                "text": "29aaocf0339c1z1",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [147, 350],
+                    [227, 350],
+                    [227, 375],
+                    [147, 375],
+                    [147, 350]
+                ],
+                "text": "finbud",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [233, 354],
+                    [334, 354],
+                    [334, 381],
+                    [233, 381],
+                    [233, 354]
+                ],
+                "text": "financial",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [339, 360],
+                    [432, 360],
+                    [432, 387],
+                    [339, 387],
+                    [339, 360]
+                ],
+                "text": "services",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [435, 366],
+                    [472, 366],
+                    [472, 389],
+                    [435, 389],
+                    [435, 366]
+                ],
+                "text": "ltd",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [97, 375],
+                    [146, 375],
+                    [146, 397],
+                    [97, 397],
+                    [97, 375]
+                ],
+                "text": "5",
+                "script_language": "gujarati"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [148, 378],
+                    [196, 378],
+                    [196, 399],
+                    [148, 399],
+                    [148, 378]
+                ],
+                "text": "488",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [199, 380],
+                    [242, 380],
+                    [242, 401],
+                    [199, 401],
+                    [199, 380]
+                ],
+                "text": "kuc",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [246, 382],
+                    [300, 382],
+                    [300, 405],
+                    [246, 405],
+                    [246, 382]
+                ],
+                "text": "road",
+                "script_language": "english"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [304, 385],
+                    [399, 385],
+                    [399, 412],
+                    [304, 412],
+                    [304, 385]
+                ],
+                "text": "warangal",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [401, 390],
+                    [526, 390],
+                    [526, 415],
+                    [401, 415],
+                    [401, 390]
+                ],
+                "text": "hanumakonda",
+                "script_language": "english"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [212, 409],
+                    [312, 409],
+                    [312, 432],
+                    [212, 432],
+                    [212, 409]
+                ],
+                "text": "contactno",
+                "script_language": "english"
+            },
+            "polygon_20": {
+                "coordinates": [
+                    [326, 414],
+                    [425, 414],
+                    [425, 437],
+                    [326, 437],
+                    [326, 414]
+                ],
+                "text": "8341193519",
+                "script_language": "odia"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_27.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_28": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [743, 144],
+                    [844, 144],
+                    [844, 190],
+                    [743, 190],
+                    [743, 144]
+                ],
+                "text": "౫౨౯౮౮",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [631, 154],
+                    [738, 154],
+                    [738, 200],
+                    [631, 200],
+                    [631, 154]
+                ],
+                "text": "94401",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [521, 157],
+                    [599, 157],
+                    [599, 205],
+                    [521, 205],
+                    [521, 157]
+                ],
+                "text": "cell",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [273, 151],
+                    [506, 151],
+                    [506, 266],
+                    [273, 266],
+                    [273, 151]
+                ],
+                "text": "br",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [739, 195],
+                    [845, 195],
+                    [845, 240],
+                    [739, 240],
+                    [739, 195]
+                ],
+                "text": "86805",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [626, 200],
+                    [731, 200],
+                    [731, 245],
+                    [626, 245],
+                    [626, 200]
+                ],
+                "text": "80748",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [591, 256],
+                    [839, 256],
+                    [839, 357],
+                    [591, 357],
+                    [591, 256]
+                ],
+                "text": "systems",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [298, 268],
+                    [584, 268],
+                    [584, 372],
+                    [298, 372],
+                    [298, 268]
+                ],
+                "text": "proofing",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [82, 273],
+                    [288, 273],
+                    [288, 366],
+                    [82, 366],
+                    [82, 273]
+                ],
+                "text": "water",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [705, 377],
+                    [812, 377],
+                    [812, 425],
+                    [705, 425],
+                    [705, 377]
+                ],
+                "text": "slab",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [593, 383],
+                    [696, 383],
+                    [696, 432],
+                    [593, 432],
+                    [593, 383]
+                ],
+                "text": "roof",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [398, 389],
+                    [582, 389],
+                    [582, 445],
+                    [398, 445],
+                    [398, 389]
+                ],
+                "text": "building",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [198, 398],
+                    [327, 398],
+                    [327, 445],
+                    [198, 445],
+                    [198, 398]
+                ],
+                "text": "types",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [117, 400],
+                    [192, 400],
+                    [192, 448],
+                    [117, 448],
+                    [117, 400]
+                ],
+                "text": "all",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [334, 404],
+                    [388, 404],
+                    [388, 449],
+                    [334, 449],
+                    [334, 404]
+                ],
+                "text": "of",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [625, 434],
+                    [805, 434],
+                    [805, 484],
+                    [625, 484],
+                    [625, 434]
+                ],
+                "text": "solution",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [422, 445],
+                    [615, 445],
+                    [615, 503],
+                    [422, 503],
+                    [422, 445]
+                ],
+                "text": "leakages",
+                "script_language": "english"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [275, 455],
+                    [413, 455],
+                    [413, 503],
+                    [275, 503],
+                    [275, 455]
+                ],
+                "text": "water",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [124, 458],
+                    [270, 458],
+                    [270, 507],
+                    [124, 507],
+                    [124, 458]
+                ],
+                "text": "walls",
+                "script_language": "english"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [650, 502],
+                    [727, 502],
+                    [727, 554],
+                    [650, 554],
+                    [650, 502]
+                ],
+                "text": "లీకేజ్",
+                "script_language": "telugu"
+            },
+            "polygon_20": {
+                "coordinates": [
+                    [729, 505],
+                    [822, 505],
+                    [822, 559],
+                    [729, 559],
+                    [729, 505]
+                ],
+                "text": "ద్వారా",
+                "script_language": "telugu"
+            },
+            "polygon_21": {
+                "coordinates": [
+                    [545, 509],
+                    [647, 509],
+                    [647, 573],
+                    [545, 573],
+                    [545, 509]
+                ],
+                "text": "స్లాబల",
+                "script_language": "telugu"
+            },
+            "polygon_22": {
+                "coordinates": [
+                    [329, 523],
+                    [421, 523],
+                    [421, 572],
+                    [329, 572],
+                    [329, 523]
+                ],
+                "text": "ఇ౦టి",
+                "script_language": "telugu"
+            },
+            "polygon_23": {
+                "coordinates": [
+                    [426, 524],
+                    [547, 524],
+                    [547, 571],
+                    [426, 571],
+                    [426, 524]
+                ],
+                "text": "గోడలు",
+                "script_language": "telugu"
+            },
+            "polygon_24": {
+                "coordinates": [
+                    [183, 533],
+                    [327, 533],
+                    [327, 584],
+                    [183, 584],
+                    [183, 533]
+                ],
+                "text": "రకముల",
+                "script_language": "telugu"
+            },
+            "polygon_25": {
+                "coordinates": [
+                    [114, 541],
+                    [189, 541],
+                    [189, 593],
+                    [114, 593],
+                    [114, 541]
+                ],
+                "text": "అన్ని",
+                "script_language": "telugu"
+            },
+            "polygon_26": {
+                "coordinates": [
+                    [517, 562],
+                    [728, 562],
+                    [728, 635],
+                    [517, 635],
+                    [517, 562]
+                ],
+                "text": "అరికట్టబడును",
+                "script_language": "telugu"
+            },
+            "polygon_27": {
+                "coordinates": [
+                    [399, 577],
+                    [515, 577],
+                    [515, 625],
+                    [399, 625],
+                    [399, 577]
+                ],
+                "text": "వె౦టనే",
+                "script_language": "telugu"
+            },
+            "polygon_28": {
+                "coordinates": [
+                    [305, 581],
+                    [395, 581],
+                    [395, 632],
+                    [305, 632],
+                    [305, 581]
+                ],
+                "text": "నీటిని",
+                "script_language": "telugu"
+            },
+            "polygon_29": {
+                "coordinates": [
+                    [221, 582],
+                    [300, 582],
+                    [300, 647],
+                    [221, 647],
+                    [221, 582]
+                ],
+                "text": "వచ్చే",
+                "script_language": "telugu"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_28.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_29": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [210, 69],
+                    [283, 69],
+                    [283, 92],
+                    [210, 92],
+                    [210, 69]
+                ],
+                "text": "વિવાતર",
+                "script_language": "gujarati"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [156, 70],
+                    [206, 70],
+                    [206, 97],
+                    [156, 97],
+                    [156, 70]
+                ],
+                "text": " ",
+                "script_language": "gujarati"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [39, 79],
+                    [153, 79],
+                    [153, 105],
+                    [39, 105],
+                    [39, 79]
+                ],
+                "text": "sriramoju",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [143, 75],
+                    [557, 75],
+                    [557, 170],
+                    [143, 170],
+                    [143, 75]
+                ],
+                "text": "ડ171",
+                "script_language": "gujarati"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [305, 147],
+                    [673, 147],
+                    [673, 247],
+                    [305, 247],
+                    [305, 147]
+                ],
+                "text": "മഹാത്മ",
+                "script_language": "malayalam"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [27, 188],
+                    [229, 188],
+                    [229, 262],
+                    [27, 262],
+                    [27, 188]
+                ],
+                "text": "arts",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [247, 201],
+                    [289, 201],
+                    [289, 247],
+                    [247, 247],
+                    [247, 201]
+                ],
+                "text": "82",
+                "script_language": "gujarati"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [563, 236],
+                    [666, 236],
+                    [666, 274],
+                    [563, 274],
+                    [563, 236]
+                ],
+                "text": "works",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [398, 246],
+                    [557, 246],
+                    [557, 285],
+                    [398, 285],
+                    [398, 246]
+                ],
+                "text": "engraving",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [280, 258],
+                    [393, 258],
+                    [393, 291],
+                    [280, 291],
+                    [280, 258]
+                ],
+                "text": "granite",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [150, 267],
+                    [257, 267],
+                    [257, 297],
+                    [150, 297],
+                    [150, 267]
+                ],
+                "text": "designs",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [27, 272],
+                    [147, 272],
+                    [147, 303],
+                    [27, 303],
+                    [27, 272]
+                ],
+                "text": "interior",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [461, 290],
+                    [671, 290],
+                    [671, 348],
+                    [461, 348],
+                    [461, 290]
+                ],
+                "text": "చెక్కబడున",
+                "script_language": "telugu"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [308, 306],
+                    [456, 306],
+                    [456, 357],
+                    [308, 357],
+                    [308, 306]
+                ],
+                "text": "బొమ్మలు",
+                "script_language": "telugu"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [11, 315],
+                    [118, 315],
+                    [118, 368],
+                    [11, 368],
+                    [11, 315]
+                ],
+                "text": "గ్రానట",
+                "script_language": "telugu"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [115, 317],
+                    [152, 317],
+                    [152, 364],
+                    [115, 364],
+                    [115, 317]
+                ],
+                "text": "పైస",
+                "script_language": "telugu"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [157, 316],
+                    [304, 316],
+                    [304, 364],
+                    [157, 364],
+                    [157, 316]
+                ],
+                "text": "అక్షరాలు",
+                "script_language": "telugu"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_29.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_30": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [154, 19],
+                    [335, 19],
+                    [335, 70],
+                    [154, 70],
+                    [154, 19]
+                ],
+                "text": "madhu",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [227, 75],
+                    [369, 75],
+                    [369, 126],
+                    [227, 126],
+                    [227, 75]
+                ],
+                "text": "stall",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [121, 76],
+                    [216, 76],
+                    [216, 126],
+                    [121, 126],
+                    [121, 76]
+                ],
+                "text": "tea",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [197, 130],
+                    [242, 130],
+                    [242, 196],
+                    [197, 196],
+                    [197, 130]
+                ],
+                "text": "టీస",
+                "script_language": "telugu"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [251, 141],
+                    [360, 141],
+                    [360, 213],
+                    [251, 213],
+                    [251, 141]
+                ],
+                "text": "సాల",
+                "script_language": "telugu"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [63, 142],
+                    [186, 142],
+                    [186, 207],
+                    [63, 207],
+                    [63, 142]
+                ],
+                "text": "మధు",
+                "script_language": "telugu"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_30.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_31": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [129, 1],
+                    [281, 1],
+                    [281, 97],
+                    [129, 97],
+                    [129, 1]
+                ],
+                "text": "వర్ప",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [292, 9],
+                    [460, 9],
+                    [460, 100],
+                    [292, 100],
+                    [292, 9]
+                ],
+                "text": "క్లనిక",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [211, 111],
+                    [347, 111],
+                    [347, 181],
+                    [211, 181],
+                    [211, 111]
+                ],
+                "text": "రాకేష్",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [113, 120],
+                    [204, 120],
+                    [204, 168],
+                    [113, 168],
+                    [113, 120]
+                ],
+                "text": "తేణ৷",
+                "script_language": "assamese"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [348, 125],
+                    [452, 125],
+                    [452, 177],
+                    [348, 177],
+                    [348, 125]
+                ],
+                "text": "బ౦గి",
+                "script_language": "telugu"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [156, 178],
+                    [213, 178],
+                    [213, 200],
+                    [156, 200],
+                    [156, 178]
+                ],
+                "text": "mbbs",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [217, 180],
+                    [350, 180],
+                    [350, 203],
+                    [217, 203],
+                    [217, 180]
+                ],
+                "text": "dnbgeneral",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [352, 186],
+                    [429, 186],
+                    [429, 204],
+                    [352, 204],
+                    [352, 186]
+                ],
+                "text": "medicine",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_31.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_32": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [935, 47],
+                    [966, 47],
+                    [966, 74],
+                    [935, 74],
+                    [935, 47]
+                ],
+                "text": "ఎస్",
+                "script_language": "telugu"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [970, 46],
+                    [1052, 46],
+                    [1052, 77],
+                    [970, 77],
+                    [970, 46]
+                ],
+                "text": "ఫోటోగ్రఫి",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [878, 49],
+                    [910, 49],
+                    [910, 75],
+                    [878, 75],
+                    [878, 49]
+                ],
+                "text": "ఎస్",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [913, 51],
+                    [930, 51],
+                    [930, 74],
+                    [913, 74],
+                    [913, 51]
+                ],
+                "text": "a",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [275, 65],
+                    [552, 65],
+                    [552, 258],
+                    [275, 258],
+                    [275, 65]
+                ],
+                "text": "575",
+                "script_language": "gujarati"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [610, 143],
+                    [1055, 143],
+                    [1055, 216],
+                    [610, 216],
+                    [610, 143]
+                ],
+                "text": "அம்மேட்",
+                "script_language": "tamil"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [736, 233],
+                    [926, 233],
+                    [926, 259],
+                    [736, 259],
+                    [736, 233]
+                ],
+                "text": "இசாள  ஏிஞர் ",
+                "script_language": "tamil"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [758, 309],
+                    [827, 309],
+                    [827, 330],
+                    [758, 330],
+                    [758, 309]
+                ],
+                "text": "gifts",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [244, 310],
+                    [357, 310],
+                    [357, 331],
+                    [244, 331],
+                    [244, 310]
+                ],
+                "text": "portrait",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [359, 310],
+                    [444, 310],
+                    [444, 332],
+                    [359, 332],
+                    [359, 310]
+                ],
+                "text": "studio",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [489, 310],
+                    [667, 310],
+                    [667, 331],
+                    [489, 331],
+                    [489, 310]
+                ],
+                "text": "personalised",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [672, 309],
+                    [753, 309],
+                    [753, 330],
+                    [672, 330],
+                    [672, 309]
+                ],
+                "text": "photo",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [870, 309],
+                    [917, 309],
+                    [917, 330],
+                    [870, 330],
+                    [870, 309]
+                ],
+                "text": "led",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [921, 309],
+                    [1003, 309],
+                    [1003, 331],
+                    [921, 331],
+                    [921, 309]
+                ],
+                "text": "photo",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [1007, 309],
+                    [1108, 309],
+                    [1108, 331],
+                    [1007, 331],
+                    [1007, 309]
+                ],
+                "text": "frames",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [1204, 332],
+                    [1425, 332],
+                    [1425, 379],
+                    [1204, 379],
+                    [1204, 332]
+                ],
+                "text": "bhagavatiic",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_32.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_33": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [462, 186],
+                    [773, 186],
+                    [773, 394],
+                    [462, 394],
+                    [462, 186]
+                ],
+                "text": "ઉઠે",
+                "script_language": "gujarati"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [163, 383],
+                    [1109, 383],
+                    [1109, 562],
+                    [163, 562],
+                    [163, 383]
+                ],
+                "text": "కళామ౦దిర్",
+                "script_language": "telugu"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_33.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_34": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [864, 220],
+                    [1041, 220],
+                    [1041, 285],
+                    [864, 285],
+                    [864, 220]
+                ],
+                "text": "70152",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [1054, 242],
+                    [1224, 242],
+                    [1224, 304],
+                    [1054, 304],
+                    [1054, 242]
+                ],
+                "text": "47278",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [72, 311],
+                    [733, 311],
+                    [733, 443],
+                    [72, 443],
+                    [72, 311]
+                ],
+                "text": "furniture",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [762, 362],
+                    [1166, 362],
+                    [1166, 472],
+                    [762, 472],
+                    [762, 362]
+                ],
+                "text": "village",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_34.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_35": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [992, 279],
+                    [1094, 279],
+                    [1094, 299],
+                    [992, 299],
+                    [992, 279]
+                ],
+                "text": "prefestive",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [1006, 295],
+                    [1078, 295],
+                    [1078, 311],
+                    [1006, 311],
+                    [1006, 295]
+                ],
+                "text": "savings",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [1150, 326],
+                    [1183, 326],
+                    [1183, 344],
+                    [1150, 344],
+                    [1150, 326]
+                ],
+                "text": "ਬਾਸਕਰਨਾ",
+                "script_language": "punjabi"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [990, 329],
+                    [1024, 329],
+                    [1024, 346],
+                    [990, 346],
+                    [990, 329]
+                ],
+                "text": "upto",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [983, 344],
+                    [1095, 344],
+                    [1095, 391],
+                    [983, 391],
+                    [983, 344]
+                ],
+                "text": "60",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [161, 498],
+                    [416, 498],
+                    [416, 566],
+                    [161, 566],
+                    [161, 498]
+                ],
+                "text": "మకరంద్",
+                "script_language": "telugu"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [771, 530],
+                    [1091, 530],
+                    [1091, 609],
+                    [771, 609],
+                    [771, 530]
+                ],
+                "text": "makrand",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [162, 564],
+                    [250, 564],
+                    [250, 621],
+                    [162, 621],
+                    [162, 564]
+                ],
+                "text": "స్వీట్స౦",
+                "script_language": "telugu"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [295, 572],
+                    [408, 572],
+                    [408, 618],
+                    [295, 618],
+                    [295, 572]
+                ],
+                "text": "సేవరీస",
+                "script_language": "telugu"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [258, 577],
+                    [287, 577],
+                    [287, 613],
+                    [258, 613],
+                    [258, 577]
+                ],
+                "text": "",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [766, 611],
+                    [885, 611],
+                    [885, 645],
+                    [766, 645],
+                    [766, 611]
+                ],
+                "text": "sweets",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [892, 613],
+                    [918, 613],
+                    [918, 647],
+                    [892, 647],
+                    [892, 613]
+                ],
+                "text": "8",
+                "script_language": "gujarati"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [925, 617],
+                    [1080, 617],
+                    [1080, 658],
+                    [925, 658],
+                    [925, 617]
+                ],
+                "text": "savouries",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_35.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_36": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [1143, 8],
+                    [1203, 8],
+                    [1203, 29],
+                    [1143, 29],
+                    [1143, 8]
+                ],
+                "text": "৮৪০२०१",
+                "script_language": "assamese"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [1072, 27],
+                    [1166, 27],
+                    [1166, 51],
+                    [1072, 51],
+                    [1072, 27]
+                ],
+                "text": "மமாட்டஅடீ",
+                "script_language": "tamil"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [1071, 43],
+                    [1143, 43],
+                    [1143, 63],
+                    [1071, 63],
+                    [1071, 43]
+                ],
+                "text": "designing",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [1076, 85],
+                    [1184, 85],
+                    [1184, 111],
+                    [1076, 111],
+                    [1076, 85]
+                ],
+                "text": "ദേവസാധനങ്ങളും",
+                "script_language": "malayalam"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [1080, 115],
+                    [1197, 115],
+                    [1197, 142],
+                    [1080, 142],
+                    [1080, 115]
+                ],
+                "text": "teethwhitening",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [1080, 146],
+                    [1215, 146],
+                    [1215, 173],
+                    [1080, 173],
+                    [1080, 146]
+                ],
+                "text": "உபவளளளளளளளள",
+                "script_language": "tamil"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [1083, 176],
+                    [1186, 176],
+                    [1186, 199],
+                    [1083, 199],
+                    [1083, 176]
+                ],
+                "text": "ஹேமட    யம்",
+                "script_language": "tamil"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [1084, 191],
+                    [1179, 191],
+                    [1179, 214],
+                    [1084, 214],
+                    [1084, 191]
+                ],
+                "text": "ഭരണത്തെ",
+                "script_language": "malayalam"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [1086, 220],
+                    [1233, 220],
+                    [1233, 249],
+                    [1086, 249],
+                    [1086, 220]
+                ],
+                "text": "geriatricdentistry",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [1, 230],
+                    [78, 230],
+                    [78, 252],
+                    [1, 252],
+                    [1, 230]
+                ],
+                "text": "68591886",
+                "script_language": "gujarati"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [221, 294],
+                    [471, 294],
+                    [471, 384],
+                    [221, 384],
+                    [221, 294]
+                ],
+                "text": "ீட்டிஎ",
+                "script_language": "tamil"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [3, 325],
+                    [74, 325],
+                    [74, 369],
+                    [3, 369],
+                    [3, 325]
+                ],
+                "text": "ter",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [500, 354],
+                    [620, 354],
+                    [620, 394],
+                    [500, 394],
+                    [500, 354]
+                ],
+                "text": "xclusive",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [692, 359],
+                    [886, 359],
+                    [886, 447],
+                    [692, 447],
+                    [692, 359]
+                ],
+                "text": "ప్రసీజ",
+                "script_language": "telugu"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [1, 398],
+                    [64, 398],
+                    [64, 424],
+                    [1, 424],
+                    [1, 398]
+                ],
+                "text": "ories",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [912, 406],
+                    [1043, 406],
+                    [1043, 449],
+                    [912, 449],
+                    [912, 406]
+                ],
+                "text": "ఎక్స్క్లూజవ",
+                "script_language": "telugu"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [1169, 436],
+                    [1209, 436],
+                    [1209, 461],
+                    [1169, 461],
+                    [1169, 436]
+                ],
+                "text": "new",
+                "script_language": "english"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [1212, 442],
+                    [1258, 442],
+                    [1258, 466],
+                    [1212, 466],
+                    [1212, 442]
+                ],
+                "text": "born",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [23, 584],
+                    [74, 584],
+                    [74, 633],
+                    [23, 633],
+                    [23, 584]
+                ],
+                "text": "7",
+                "script_language": "punjabi"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [53, 641],
+                    [85, 641],
+                    [85, 655],
+                    [53, 655],
+                    [53, 641]
+                ],
+                "text": "గబడా",
+                "script_language": "telugu"
+            },
+            "polygon_20": {
+                "coordinates": [
+                    [1166, 690],
+                    [1192, 690],
+                    [1192, 732],
+                    [1166, 732],
+                    [1166, 690]
+                ],
+                "text": "2",
+                "script_language": "gujarati"
+            },
+            "polygon_21": {
+                "coordinates": [
+                    [415, 737],
+                    [503, 737],
+                    [503, 753],
+                    [415, 753],
+                    [415, 737]
+                ],
+                "text": "૨૦૦૦૦૪",
+                "script_language": "gujarati"
+            },
+            "polygon_22": {
+                "coordinates": [
+                    [469, 766],
+                    [520, 766],
+                    [520, 785],
+                    [469, 785],
+                    [469, 766]
+                ],
+                "text": "prestige",
+                "script_language": "english"
+            },
+            "polygon_23": {
+                "coordinates": [
+                    [100, 767],
+                    [213, 767],
+                    [213, 797],
+                    [100, 797],
+                    [100, 767]
+                ],
+                "text": "freedom",
+                "script_language": "english"
+            },
+            "polygon_24": {
+                "coordinates": [
+                    [216, 773],
+                    [311, 773],
+                    [311, 804],
+                    [216, 804],
+                    [216, 773]
+                ],
+                "text": "delight",
+                "script_language": "english"
+            },
+            "polygon_25": {
+                "coordinates": [
+                    [98, 794],
+                    [138, 794],
+                    [138, 813],
+                    [98, 813],
+                    [98, 794]
+                ],
+                "text": "buy",
+                "script_language": "english"
+            },
+            "polygon_26": {
+                "coordinates": [
+                    [140, 797],
+                    [203, 797],
+                    [203, 818],
+                    [140, 818],
+                    [140, 797]
+                ],
+                "text": "more",
+                "script_language": "english"
+            },
+            "polygon_27": {
+                "coordinates": [
+                    [206, 801],
+                    [303, 801],
+                    [303, 822],
+                    [206, 822],
+                    [206, 801]
+                ],
+                "text": "getmore",
+                "script_language": "english"
+            },
+            "polygon_28": {
+                "coordinates": [
+                    [175, 839],
+                    [245, 839],
+                    [245, 853],
+                    [175, 853],
+                    [175, 839]
+                ],
+                "text": "productsfor",
+                "script_language": "english"
+            },
+            "polygon_29": {
+                "coordinates": [
+                    [245, 841],
+                    [297, 841],
+                    [297, 854],
+                    [245, 854],
+                    [245, 841]
+                ],
+                "text": "5000s",
+                "script_language": "english"
+            },
+            "polygon_30": {
+                "coordinates": [
+                    [105, 854],
+                    [298, 854],
+                    [298, 874],
+                    [105, 874],
+                    [105, 854]
+                ],
+                "text": "etakettleworthy1444",
+                "script_language": "english"
+            },
+            "polygon_31": {
+                "coordinates": [
+                    [104, 870],
+                    [200, 870],
+                    [200, 898],
+                    [104, 898],
+                    [104, 870]
+                ],
+                "text": "દારદા",
+                "script_language": "gujarati"
+            },
+            "polygon_32": {
+                "coordinates": [
+                    [5, 940],
+                    [173, 940],
+                    [173, 956],
+                    [5, 956],
+                    [5, 940]
+                ],
+                "text": "1641647912222",
+                "script_language": "gujarati"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_36.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_37": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [139, 0],
+                    [252, 0],
+                    [252, 36],
+                    [139, 36],
+                    [139, 0]
+                ],
+                "text": "laser",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [933, 0],
+                    [1272, 0],
+                    [1272, 56],
+                    [933, 56],
+                    [933, 0]
+                ],
+                "text": "૬૩૦૦વુલા",
+                "script_language": "gujarati"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [841, 32],
+                    [882, 32],
+                    [882, 62],
+                    [841, 62],
+                    [841, 32]
+                ],
+                "text": "ig",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [749, 144],
+                    [789, 144],
+                    [789, 161],
+                    [749, 161],
+                    [749, 144]
+                ],
+                "text": "anil",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [737, 161],
+                    [801, 161],
+                    [801, 177],
+                    [737, 177],
+                    [737, 161]
+                ],
+                "text": "dental",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [515, 170],
+                    [624, 170],
+                    [624, 194],
+                    [515, 194],
+                    [515, 170]
+                ],
+                "text": "makeover",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [453, 175],
+                    [512, 175],
+                    [512, 198],
+                    [453, 198],
+                    [453, 175]
+                ],
+                "text": "smile",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [323, 180],
+                    [368, 180],
+                    [368, 196],
+                    [323, 196],
+                    [323, 180]
+                ],
+                "text": "மோம்ம",
+                "script_language": "tamil"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [385, 193],
+                    [431, 193],
+                    [431, 206],
+                    [385, 206],
+                    [385, 193]
+                ],
+                "text": "smiles",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [1029, 319],
+                    [1209, 319],
+                    [1209, 376],
+                    [1029, 376],
+                    [1029, 319]
+                ],
+                "text": "పెయి౦ట్స్",
+                "script_language": "telugu"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [870, 324],
+                    [1025, 324],
+                    [1025, 381],
+                    [870, 381],
+                    [870, 324]
+                ],
+                "text": "ఏషియన్",
+                "script_language": "telugu"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [248, 344],
+                    [380, 344],
+                    [380, 396],
+                    [248, 396],
+                    [248, 344]
+                ],
+                "text": "ఏషియన్",
+                "script_language": "telugu"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [383, 341],
+                    [529, 341],
+                    [529, 393],
+                    [383, 393],
+                    [383, 341]
+                ],
+                "text": "పెయి౦ట్స్",
+                "script_language": "telugu"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [691, 330],
+                    [861, 330],
+                    [861, 457],
+                    [691, 457],
+                    [691, 330]
+                ],
+                "text": "୦୦",
+                "script_language": "odia"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [95, 349],
+                    [241, 349],
+                    [241, 464],
+                    [95, 464],
+                    [95, 349]
+                ],
+                "text": "ગ",
+                "script_language": "gujarati"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [909, 384],
+                    [1165, 384],
+                    [1165, 452],
+                    [909, 452],
+                    [909, 384]
+                ],
+                "text": "asianpaints",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [280, 402],
+                    [493, 402],
+                    [493, 464],
+                    [280, 464],
+                    [280, 402]
+                ],
+                "text": "asianpaints",
+                "script_language": "english"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [1002, 496],
+                    [1208, 496],
+                    [1208, 523],
+                    [1002, 523],
+                    [1002, 496]
+                ],
+                "text": "enterprises",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [818, 496],
+                    [996, 496],
+                    [996, 524],
+                    [818, 524],
+                    [818, 496]
+                ],
+                "text": "choudhary",
+                "script_language": "english"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [94, 497],
+                    [241, 497],
+                    [241, 530],
+                    [94, 530],
+                    [94, 497]
+                ],
+                "text": "చౌదలఎంటరప్రైజెన",
+                "script_language": "telugu"
+            },
+            "polygon_20": {
+                "coordinates": [
+                    [339, 564],
+                    [443, 564],
+                    [443, 586],
+                    [339, 586],
+                    [339, 564]
+                ],
+                "text": "shilli",
+                "script_language": "english"
+            },
+            "polygon_21": {
+                "coordinates": [
+                    [306, 589],
+                    [389, 589],
+                    [389, 618],
+                    [306, 618],
+                    [306, 589]
+                ],
+                "text": "your",
+                "script_language": "english"
+            },
+            "polygon_22": {
+                "coordinates": [
+                    [394, 590],
+                    [484, 590],
+                    [484, 619],
+                    [394, 619],
+                    [394, 590]
+                ],
+                "text": "home",
+                "script_language": "english"
+            },
+            "polygon_23": {
+                "coordinates": [
+                    [847, 613],
+                    [892, 613],
+                    [892, 627],
+                    [847, 627],
+                    [847, 613]
+                ],
+                "text": "વઝ્રી",
+                "script_language": "gujarati"
+            },
+            "polygon_24": {
+                "coordinates": [
+                    [295, 643],
+                    [383, 643],
+                    [383, 683],
+                    [295, 683],
+                    [295, 643]
+                ],
+                "text": "eur",
+                "script_language": "english"
+            },
+            "polygon_25": {
+                "coordinates": [
+                    [419, 691],
+                    [488, 691],
+                    [488, 705],
+                    [419, 705],
+                    [419, 691]
+                ],
+                "text": "0000000",
+                "script_language": "english"
+            },
+            "polygon_26": {
+                "coordinates": [
+                    [487, 693],
+                    [520, 693],
+                    [520, 707],
+                    [487, 707],
+                    [487, 693]
+                ],
+                "text": "੦੦੦",
+                "script_language": "punjabi"
+            },
+            "polygon_27": {
+                "coordinates": [
+                    [283, 696],
+                    [375, 696],
+                    [375, 715],
+                    [283, 715],
+                    [283, 696]
+                ],
+                "text": "antitheft",
+                "script_language": "english"
+            },
+            "polygon_28": {
+                "coordinates": [
+                    [378, 697],
+                    [413, 697],
+                    [413, 715],
+                    [378, 715],
+                    [378, 697]
+                ],
+                "text": "eng",
+                "script_language": "english"
+            },
+            "polygon_29": {
+                "coordinates": [
+                    [414, 763],
+                    [446, 763],
+                    [446, 775],
+                    [414, 775],
+                    [414, 763]
+                ],
+                "text": "",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_37.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_38": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [653, 189],
+                    [718, 189],
+                    [718, 250],
+                    [653, 250],
+                    [653, 189]
+                ],
+                "text": "श्री",
+                "script_language": "hindi"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [704, 204],
+                    [1091, 204],
+                    [1091, 387],
+                    [704, 387],
+                    [704, 204]
+                ],
+                "text": "బ్రదర్స్",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [267, 241],
+                    [680, 241],
+                    [680, 390],
+                    [267, 390],
+                    [267, 241]
+                ],
+                "text": "చందస",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [762, 402],
+                    [1064, 402],
+                    [1064, 514],
+                    [762, 514],
+                    [762, 402]
+                ],
+                "text": "855",
+                "script_language": "punjabi"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [672, 428],
+                    [750, 428],
+                    [750, 500],
+                    [672, 500],
+                    [672, 428]
+                ],
+                "text": "",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [291, 425],
+                    [660, 425],
+                    [660, 540],
+                    [291, 540],
+                    [291, 425]
+                ],
+                "text": "జ్యూయలర్స్",
+                "script_language": "telugu"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [533, 535],
+                    [812, 535],
+                    [812, 618],
+                    [533, 618],
+                    [533, 535]
+                ],
+                "text": "కూకట్పల్లి",
+                "script_language": "telugu"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_38.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_39": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [229, 85],
+                    [1179, 85],
+                    [1179, 420],
+                    [229, 420],
+                    [229, 85]
+                ],
+                "text": "திரியிலையில்",
+                "script_language": "tamil"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_39.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_40": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [293, 212],
+                    [418, 212],
+                    [418, 238],
+                    [293, 238],
+                    [293, 212]
+                ],
+                "text": "cell9391436356",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [421, 220],
+                    [498, 220],
+                    [498, 242],
+                    [421, 242],
+                    [421, 220]
+                ],
+                "text": "౮౩౫౫౫౫౦౦",
+                "script_language": "telugu"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [335, 248],
+                    [398, 248],
+                    [398, 316],
+                    [335, 316],
+                    [335, 248]
+                ],
+                "text": "గర్ల్స",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [216, 248],
+                    [328, 248],
+                    [328, 331],
+                    [216, 331],
+                    [216, 248]
+                ],
+                "text": "సమృద్ధి",
+                "script_language": "telugu"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [399, 252],
+                    [487, 252],
+                    [487, 324],
+                    [399, 324],
+                    [399, 252]
+                ],
+                "text": "హాస్టల",
+                "script_language": "telugu"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [418, 334],
+                    [490, 334],
+                    [490, 385],
+                    [418, 385],
+                    [418, 334]
+                ],
+                "text": "hostel",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [352, 334],
+                    [414, 334],
+                    [414, 386],
+                    [352, 386],
+                    [352, 334]
+                ],
+                "text": "girls",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [212, 335],
+                    [345, 335],
+                    [345, 389],
+                    [212, 389],
+                    [212, 335]
+                ],
+                "text": "samrudhi",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [309, 453],
+                    [399, 453],
+                    [399, 492],
+                    [309, 492],
+                    [309, 453]
+                ],
+                "text": "tolet",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [310, 486],
+                    [401, 486],
+                    [401, 508],
+                    [310, 508],
+                    [310, 486]
+                ],
+                "text": "సౌాസ്ഥാനం102019",
+                "script_language": "malayalam"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [308, 514],
+                    [403, 514],
+                    [403, 538],
+                    [308, 538],
+                    [308, 514]
+                ],
+                "text": "707596177779849409831",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [33, 1024],
+                    [116, 1024],
+                    [116, 1051],
+                    [33, 1051],
+                    [33, 1024]
+                ],
+                "text": "redmi",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [124, 1026],
+                    [152, 1026],
+                    [152, 1051],
+                    [124, 1051],
+                    [124, 1026]
+                ],
+                "text": "13",
+                "script_language": "english"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [165, 1030],
+                    [188, 1030],
+                    [188, 1048],
+                    [165, 1048],
+                    [165, 1030]
+                ],
+                "text": "5g",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [428, 1031],
+                    [480, 1031],
+                    [480, 1050],
+                    [428, 1050],
+                    [428, 1031]
+                ],
+                "text": "55mm",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [501, 1030],
+                    [556, 1030],
+                    [556, 1050],
+                    [501, 1050],
+                    [501, 1030]
+                ],
+                "text": "f175",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [578, 1031],
+                    [641, 1031],
+                    [641, 1050],
+                    [578, 1050],
+                    [578, 1031]
+                ],
+                "text": "1370s",
+                "script_language": "english"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [662, 1030],
+                    [716, 1030],
+                    [716, 1050],
+                    [662, 1050],
+                    [662, 1030]
+                ],
+                "text": "iso50",
+                "script_language": "english"
+            },
+            "polygon_18": {
+                "coordinates": [
+                    [456, 1062],
+                    [548, 1062],
+                    [548, 1081],
+                    [456, 1081],
+                    [456, 1062]
+                ],
+                "text": "മൈലേജിൽ",
+                "script_language": "malayalam"
+            },
+            "polygon_19": {
+                "coordinates": [
+                    [560, 1063],
+                    [635, 1063],
+                    [635, 1081],
+                    [560, 1081],
+                    [560, 1063]
+                ],
+                "text": "18o313n",
+                "script_language": "english"
+            },
+            "polygon_20": {
+                "coordinates": [
+                    [643, 1063],
+                    [716, 1063],
+                    [716, 1081],
+                    [643, 1081],
+                    [643, 1063]
+                ],
+                "text": "79324e",
+                "script_language": "english"
+            },
+            "polygon_21": {
+                "coordinates": [
+                    [32, 1063],
+                    [137, 1063],
+                    [137, 1086],
+                    [32, 1086],
+                    [32, 1063]
+                ],
+                "text": "superclear",
+                "script_language": "english"
+            },
+            "polygon_22": {
+                "coordinates": [
+                    [140, 1067],
+                    [205, 1067],
+                    [205, 1083],
+                    [140, 1083],
+                    [140, 1067]
+                ],
+                "text": "camera",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_40.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_41": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [320, 212],
+                    [1212, 212],
+                    [1212, 379],
+                    [320, 379],
+                    [320, 212]
+                ],
+                "text": "চাশাচন্তীয়তীবে৮",
+                "script_language": "assamese"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [418, 383],
+                    [1099, 383],
+                    [1099, 462],
+                    [418, 462],
+                    [418, 383]
+                ],
+                "text": "kitchens",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_41.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_42": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [306, 267],
+                    [639, 267],
+                    [639, 353],
+                    [306, 353],
+                    [306, 267]
+                ],
+                "text": "juices",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [1051, 348],
+                    [1231, 348],
+                    [1231, 424],
+                    [1051, 424],
+                    [1051, 348]
+                ],
+                "text": "tea",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [354, 543],
+                    [485, 543],
+                    [485, 602],
+                    [354, 602],
+                    [354, 543]
+                ],
+                "text": " ",
+                "script_language": "odia"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [701, 565],
+                    [792, 565],
+                    [792, 643],
+                    [701, 643],
+                    [701, 565]
+                ],
+                "text": "മുസൽ\u200c.",
+                "script_language": "malayalam"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [713, 568],
+                    [845, 568],
+                    [845, 692],
+                    [713, 692],
+                    [713, 568]
+                ],
+                "text": "മുണ്ടൂർ",
+                "script_language": "malayalam"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_42.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_43": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [361, 287],
+                    [974, 287],
+                    [974, 483],
+                    [361, 483],
+                    [361, 287]
+                ],
+                "text": "serene",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [984, 382],
+                    [1189, 382],
+                    [1189, 507],
+                    [984, 507],
+                    [984, 382]
+                ],
+                "text": "rk",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_43.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_44": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [195, 47],
+                    [373, 47],
+                    [373, 204],
+                    [195, 204],
+                    [195, 47]
+                ],
+                "text": "555",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [777, 76],
+                    [810, 76],
+                    [810, 146],
+                    [777, 146],
+                    [777, 76]
+                ],
+                "text": "૦",
+                "script_language": "gujarati"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [8, 86],
+                    [164, 86],
+                    [164, 231],
+                    [8, 231],
+                    [8, 86]
+                ],
+                "text": "555",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [591, 512],
+                    [965, 512],
+                    [965, 566],
+                    [591, 566],
+                    [591, 512]
+                ],
+                "text": "request",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [577, 582],
+                    [721, 582],
+                    [721, 653],
+                    [577, 653],
+                    [577, 582]
+                ],
+                "text": "bus",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [742, 582],
+                    [940, 582],
+                    [940, 653],
+                    [742, 653],
+                    [742, 582]
+                ],
+                "text": "stop",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [198, 639],
+                    [309, 639],
+                    [309, 668],
+                    [198, 668],
+                    [198, 639]
+                ],
+                "text": "idnoep2018",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [362, 663],
+                    [395, 663],
+                    [395, 682],
+                    [362, 682],
+                    [362, 663]
+                ],
+                "text": "hcu",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [397, 668],
+                    [508, 668],
+                    [508, 692],
+                    [397, 692],
+                    [397, 668]
+                ],
+                "text": "oppositesecond",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [196, 684],
+                    [261, 684],
+                    [261, 706],
+                    [196, 706],
+                    [196, 684]
+                ],
+                "text": "80016",
+                "script_language": "gujarati"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [223, 730],
+                    [252, 730],
+                    [252, 752],
+                    [223, 752],
+                    [223, 730]
+                ],
+                "text": "217",
+                "script_language": "gujarati"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [288, 734],
+                    [329, 734],
+                    [329, 755],
+                    [288, 755],
+                    [288, 734]
+                ],
+                "text": "cbs",
+                "script_language": "english"
+            },
+            "polygon_12": {
+                "coordinates": [
+                    [450, 740],
+                    [530, 740],
+                    [530, 758],
+                    [450, 758],
+                    [450, 740]
+                ],
+                "text": "1111150111",
+                "script_language": "gujarati"
+            },
+            "polygon_13": {
+                "coordinates": [
+                    [204, 761],
+                    [264, 761],
+                    [264, 783],
+                    [204, 783],
+                    [204, 761]
+                ],
+                "text": "113216",
+                "script_language": "english"
+            },
+            "polygon_14": {
+                "coordinates": [
+                    [285, 763],
+                    [332, 763],
+                    [332, 784],
+                    [285, 784],
+                    [285, 763]
+                ],
+                "text": "uppal",
+                "script_language": "english"
+            },
+            "polygon_15": {
+                "coordinates": [
+                    [4, 1012],
+                    [144, 1012],
+                    [144, 1066],
+                    [4, 1066],
+                    [4, 1012]
+                ],
+                "text": "rvekshan",
+                "script_language": "english"
+            },
+            "polygon_16": {
+                "coordinates": [
+                    [39, 1126],
+                    [135, 1126],
+                    [135, 1181],
+                    [39, 1181],
+                    [39, 1126]
+                ],
+                "text": "waste",
+                "script_language": "english"
+            },
+            "polygon_17": {
+                "coordinates": [
+                    [2, 1160],
+                    [34, 1160],
+                    [34, 1194],
+                    [2, 1194],
+                    [2, 1160]
+                ],
+                "text": "੬੫",
+                "script_language": "punjabi"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_44.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_45": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [468, 733],
+                    [935, 733],
+                    [935, 884],
+                    [468, 884],
+                    [468, 733]
+                ],
+                "text": "uturn",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_45.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_46": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [367, 899],
+                    [568, 899],
+                    [568, 964],
+                    [367, 964],
+                    [367, 899]
+                ],
+                "text": "left",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [590, 902],
+                    [817, 902],
+                    [817, 965],
+                    [590, 965],
+                    [590, 902]
+                ],
+                "text": "turn",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [484, 986],
+                    [699, 986],
+                    [699, 1047],
+                    [484, 1047],
+                    [484, 986]
+                ],
+                "text": "only",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [541, 1065],
+                    [785, 1065],
+                    [785, 1126],
+                    [541, 1126],
+                    [541, 1065]
+                ],
+                "text": "right",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [399, 1066],
+                    [516, 1066],
+                    [516, 1126],
+                    [399, 1126],
+                    [399, 1066]
+                ],
+                "text": "no",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [484, 1144],
+                    [697, 1144],
+                    [697, 1202],
+                    [484, 1202],
+                    [484, 1144]
+                ],
+                "text": "turn",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [544, 1236],
+                    [714, 1236],
+                    [714, 1483],
+                    [544, 1483],
+                    [544, 1236]
+                ],
+                "text": "કરી",
+                "script_language": "gujarati"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_46.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_47": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [341, 274],
+                    [554, 274],
+                    [554, 371],
+                    [341, 371],
+                    [341, 274]
+                ],
+                "text": "eats",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [580, 288],
+                    [912, 288],
+                    [912, 392],
+                    [580, 392],
+                    [580, 288]
+                ],
+                "text": "corner",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [1138, 328],
+                    [1193, 328],
+                    [1193, 360],
+                    [1138, 360],
+                    [1138, 328]
+                ],
+                "text": "నరేష",
+                "script_language": "telugu"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [1083, 347],
+                    [1149, 347],
+                    [1149, 384],
+                    [1083, 384],
+                    [1083, 347]
+                ],
+                "text": "ರಾ೦ರದ್ದ",
+                "script_language": "kannada"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [1150, 361],
+                    [1193, 361],
+                    [1193, 386],
+                    [1150, 386],
+                    [1150, 361]
+                ],
+                "text": "८ा६।",
+                "script_language": "hindi"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [582, 396],
+                    [917, 396],
+                    [917, 451],
+                    [582, 451],
+                    [582, 396]
+                ],
+                "text": "restaurant",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [1111, 522],
+                    [1204, 522],
+                    [1204, 556],
+                    [1111, 556],
+                    [1111, 522]
+                ],
+                "text": "chicken",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_47.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_48": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [32, 353],
+                    [649, 353],
+                    [649, 507],
+                    [32, 507],
+                    [32, 353]
+                ],
+                "text": "sahasra",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [661, 391],
+                    [1053, 391],
+                    [1053, 523],
+                    [661, 523],
+                    [661, 391]
+                ],
+                "text": "food",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [1086, 409],
+                    [1541, 409],
+                    [1541, 552],
+                    [1086, 552],
+                    [1086, 409]
+                ],
+                "text": "court",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [230, 495],
+                    [1013, 495],
+                    [1013, 615],
+                    [230, 615],
+                    [230, 495]
+                ],
+                "text": "diningtake",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [1043, 535],
+                    [1329, 535],
+                    [1329, 632],
+                    [1043, 632],
+                    [1043, 535]
+                ],
+                "text": "away",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [203, 590],
+                    [359, 590],
+                    [359, 646],
+                    [203, 646],
+                    [203, 590]
+                ],
+                "text": "currys",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [548, 608],
+                    [692, 608],
+                    [692, 663],
+                    [548, 663],
+                    [548, 608]
+                ],
+                "text": "biryani",
+                "script_language": "english"
+            },
+            "polygon_7": {
+                "coordinates": [
+                    [891, 629],
+                    [1015, 629],
+                    [1015, 675],
+                    [891, 675],
+                    [891, 629]
+                ],
+                "text": "meals",
+                "script_language": "english"
+            },
+            "polygon_8": {
+                "coordinates": [
+                    [1189, 640],
+                    [1379, 640],
+                    [1379, 697],
+                    [1189, 697],
+                    [1189, 640]
+                ],
+                "text": "chapathi",
+                "script_language": "english"
+            },
+            "polygon_9": {
+                "coordinates": [
+                    [1493, 1011],
+                    [1529, 1011],
+                    [1529, 1026],
+                    [1493, 1026],
+                    [1493, 1011]
+                ],
+                "text": "exide",
+                "script_language": "english"
+            },
+            "polygon_10": {
+                "coordinates": [
+                    [1544, 1020],
+                    [1575, 1020],
+                    [1575, 1031],
+                    [1544, 1031],
+                    [1544, 1020]
+                ],
+                "text": "elito",
+                "script_language": "english"
+            },
+            "polygon_11": {
+                "coordinates": [
+                    [1187, 1025],
+                    [1250, 1025],
+                    [1250, 1085],
+                    [1187, 1085],
+                    [1187, 1025]
+                ],
+                "text": "প্স",
+                "script_language": "bengali"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_48.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_49": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [159, 369],
+                    [845, 369],
+                    [845, 486],
+                    [159, 486],
+                    [159, 369]
+                ],
+                "text": "burman",
+                "script_language": "english"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [903, 411],
+                    [1256, 411],
+                    [1256, 510],
+                    [903, 510],
+                    [903, 411]
+                ],
+                "text": "કાતર",
+                "script_language": "gujarati"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [47, 463],
+                    [329, 463],
+                    [329, 514],
+                    [47, 514],
+                    [47, 463]
+                ],
+                "text": "accessories",
+                "script_language": "english"
+            },
+            "polygon_3": {
+                "coordinates": [
+                    [506, 486],
+                    [668, 486],
+                    [668, 531],
+                    [506, 531],
+                    [506, 486]
+                ],
+                "text": "rentals",
+                "script_language": "english"
+            },
+            "polygon_4": {
+                "coordinates": [
+                    [827, 502],
+                    [956, 502],
+                    [956, 547],
+                    [827, 547],
+                    [827, 502]
+                ],
+                "text": "video",
+                "script_language": "english"
+            },
+            "polygon_5": {
+                "coordinates": [
+                    [965, 510],
+                    [1104, 510],
+                    [1104, 555],
+                    [965, 555],
+                    [965, 510]
+                ],
+                "text": "shoots",
+                "script_language": "english"
+            },
+            "polygon_6": {
+                "coordinates": [
+                    [1187, 521],
+                    [1464, 521],
+                    [1464, 569],
+                    [1187, 569],
+                    [1187, 521]
+                ],
+                "text": "modifications",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_49.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    },
+    "dc_50": {
+        "annotations": {
+            "polygon_0": {
+                "coordinates": [
+                    [381, 253],
+                    [1053, 253],
+                    [1053, 422],
+                    [381, 422],
+                    [381, 253]
+                ],
+                "text": "ஔியாய்ய",
+                "script_language": "tamil"
+            },
+            "polygon_1": {
+                "coordinates": [
+                    [761, 401],
+                    [846, 401],
+                    [846, 423],
+                    [761, 423],
+                    [761, 401]
+                ],
+                "text": "fashion",
+                "script_language": "english"
+            },
+            "polygon_2": {
+                "coordinates": [
+                    [850, 401],
+                    [921, 401],
+                    [921, 426],
+                    [850, 426],
+                    [850, 401]
+                ],
+                "text": "seeds",
+                "script_language": "english"
+            }
+        },
+        "url": "NA",
+        "image_name": "dc_50.jpg",
+        "split": "NA",
+        "folderName": "NA"
+    }
+}

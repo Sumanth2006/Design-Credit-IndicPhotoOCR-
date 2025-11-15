@@ -11,21 +11,26 @@ Collected real-world images containing Indian-language text
 
 Wrote the correct text manually for each image
 
-Used the existing IndicPhotoOCR toolkit to compare OCR output with our annotations
+Used the existing IndicPhotoOCR toolkit to compare its OCR output with our annotations
 
 Observed where the OCR system works well and where it struggles
 
-Learned how a simple ML pipeline works through a hands-on activity
+Learned the flow of a simple ML pipeline through hands-on practice
 
 Key Learnings
 
 Basics of data collection
 
-Importance of clean annotations
+Importance of clean text annotations
 
 How OCR behaves on different types of images
 
-Practical challenges in scene-text understanding
+Practical challenges while handling scene-text images
+
+Acknowledgement
+
+We sincerely thank the IndicPhotoOCR team for providing the open-source OCR toolkit that we used in this project.
+Toolkit Repository: https://github.com/Bhashini-IITJ/IndicPhotoOCR
 
 Contributors
 
